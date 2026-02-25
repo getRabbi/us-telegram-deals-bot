@@ -38,8 +38,10 @@ export function normalizePriceText(s) {
 }
 
 export function priceToNumber(priceText) {
-  const m = String(priceText || "").match(/\d+(?:\.\d{2})?/);
-  return m ? Number(m[0]) : 0;
+  const s = String(priceText || "");
+  const m = s.match(/\d{1,3}(?:,\d{3})*(?:\.\d{2})?|\d+(?:\.\d{2})?/);
+  if (!m) return 0;
+  return Number(m[0].replaceAll(",", ""));
 }
 
 export function calcDiscountPct(now, was) {
