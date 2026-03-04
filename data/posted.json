@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0dqkqgxtt|$211.54",
-      "ts": 1771992459030
-    },
-    {
-      "key": "target|92784338|$1,500",
-      "ts": 1771992464389
-    },
-    {
-      "key": "target|95238819|$1,500",
-      "ts": 1771992469632
-    },
-    {
-      "key": "target|90792064|$1,500",
-      "ts": 1771992475008
-    },
-    {
-      "key": "target|13674089|$1,500",
-      "ts": 1771992480344
-    },
-    {
-      "key": "amazonus|b0gkc5bc21|$49.97",
-      "ts": 1771992486965
-    },
-    {
-      "key": "amazonus|b0chs3fkrs|$42.49",
-      "ts": 1771992493011
-    },
-    {
-      "key": "amazonus|b0dzhjv532|$39.99",
-      "ts": 1771992499434
-    },
-    {
       "key": "amazonus|b0fn4fqxrj|$169.99",
       "ts": 1772012903021
     },
@@ -583,6 +551,38 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/19269496-men-s-slip-on-moccasin-slippers-memory-foam-fleece-lined-for-indoor-outdoor-various-colors-and-sizes-amazon-11-99|$11.99",
       "ts": 1772595649699
+    },
+    {
+      "key": "amazonus|b0cpdgrht6|$52.78",
+      "ts": 1772616967196
+    },
+    {
+      "key": "target|89089651|$4.39",
+      "ts": 1772616972860
+    },
+    {
+      "key": "target|1003792862|$5.39",
+      "ts": 1772616978521
+    },
+    {
+      "key": "target|13429188|$8.49",
+      "ts": 1772616984083
+    },
+    {
+      "key": "target|14871930|$9.19",
+      "ts": 1772616989736
+    },
+    {
+      "key": "amazonus|b0cpdgf3tv|$47.99",
+      "ts": 1772616995705
+    },
+    {
+      "key": "amazonus|b0cpdgyfs1|$47.99",
+      "ts": 1772617001666
+    },
+    {
+      "key": "amazonus|b0cpdgzm4l|$47.99",
+      "ts": 1772617008052
     }
   ]
 }
