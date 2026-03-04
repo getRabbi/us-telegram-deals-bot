@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "target|12965290|$1,500",
-      "ts": 1771970725371
-    },
-    {
-      "key": "target|89243760|$1,500",
-      "ts": 1771970731758
-    },
-    {
-      "key": "target|94772611|$1,500",
-      "ts": 1771970737142
-    },
-    {
-      "key": "target|94223852|$1,500",
-      "ts": 1771970743716
-    },
-    {
       "key": "amazonus|b0dqkqgxtt|$211.54",
       "ts": 1771992459030
     },
@@ -583,6 +567,22 @@
     {
       "key": "amazonus|b0dzn8f264|$36.98",
       "ts": 1772575202748
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19269556-linksys-e8450-dual-band-ax3200-wi-fi-6-router-factory-reconditioned-14-free-shipping-w-prime-or-6-shipping-w-o-prime|$6",
+      "ts": 1772595634544
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19269568-36-ounce-stanley-quick-flip-go-water-bottle-w-push-button-lid-azure-17-57-free-shipping-w-prime-or-on-35|$17.57",
+      "ts": 1772595639587
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19269514-men-s-slip-on-moccasin-slippers-memory-foam-fleece-lined-nbsp-for-indoor-outdoor-anti-skid-rubber-sole-various-colors-and-sizes-amazon-11-99|$11.99",
+      "ts": 1772595644660
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19269496-men-s-slip-on-moccasin-slippers-memory-foam-fleece-lined-for-indoor-outdoor-various-colors-and-sizes-amazon-11-99|$11.99",
+      "ts": 1772595649699
     }
   ]
 }
