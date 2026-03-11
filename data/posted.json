@@ -1,26 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0b41yh9b6|$94.99",
-      "ts": 1772575177605
-    },
-    {
-      "key": "target|13429188|$7.49",
-      "ts": 1772575183664
-    },
-    {
-      "key": "amazonus|b0g2l2n24q|$110.48",
-      "ts": 1772575189979
-    },
-    {
-      "key": "amazonus|b0d14wqx8l|$109.99",
-      "ts": 1772575196275
-    },
-    {
-      "key": "amazonus|b0dzn8f264|$36.98",
-      "ts": 1772575202748
-    },
-    {
       "key": "slickdeals|https://slickdeals.net/f/19269556-linksys-e8450-dual-band-ax3200-wi-fi-6-router-factory-reconditioned-14-free-shipping-w-prime-or-6-shipping-w-o-prime|$6",
       "ts": 1772595634544
     },
@@ -567,6 +547,38 @@
     {
       "key": "amazonus|b08ff4w5rg|$106.99",
       "ts": 1773179538512
+    },
+    {
+      "key": "amazonus|b0c2zgq15w|$39.97",
+      "ts": 1773200839078
+    },
+    {
+      "key": "target|94935358|$6.20",
+      "ts": 1773200844584
+    },
+    {
+      "key": "target|15014058|$6.89",
+      "ts": 1773200849967
+    },
+    {
+      "key": "target|88566471|$6.99",
+      "ts": 1773200855592
+    },
+    {
+      "key": "target|94723640|$4.19",
+      "ts": 1773200860884
+    },
+    {
+      "key": "amazonus|b0bvly5w6k|$69.99",
+      "ts": 1773200867948
+    },
+    {
+      "key": "amazonus|b0dr247q72|$39.99",
+      "ts": 1773200875051
+    },
+    {
+      "key": "amazonus|b0fp87rql4|$39.99",
+      "ts": 1773200881979
     }
   ]
 }
