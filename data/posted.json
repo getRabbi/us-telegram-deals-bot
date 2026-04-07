@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b07rfnzyjz|$99.95",
-      "ts": 1774951051865
-    },
-    {
-      "key": "target|47096727|$1.59",
-      "ts": 1774951057129
-    },
-    {
-      "key": "target|95094563|$2.99",
-      "ts": 1774951062489
-    },
-    {
-      "key": "target|54553204|$3.43",
-      "ts": 1774951067750
-    },
-    {
-      "key": "target|52087250|$3.43",
-      "ts": 1774951072922
-    },
-    {
-      "key": "amazonus|b0dz2sk7t2|$206.15",
-      "ts": 1774951079079
-    },
-    {
-      "key": "amazonus|b0crmb9z84|$41.99",
-      "ts": 1774951085011
-    },
-    {
-      "key": "amazonus|b0b5m4zc48|$96.81",
-      "ts": 1774951090944
-    },
-    {
       "key": "amazonus|b09kq2q2cv|$105.45",
       "ts": 1774994873177
     },
@@ -563,6 +531,38 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/19392096-swingline-cub-compact-metal-stapler-periwinkle-purple-4-91-free-shipping-w-prime-or-on-35|$4.91",
       "ts": 1775555537289
+    },
+    {
+      "key": "amazonus|b07hxh6x3l|$64.95",
+      "ts": 1775599763694
+    },
+    {
+      "key": "target|15014058|$5.69",
+      "ts": 1775599768784
+    },
+    {
+      "key": "target|94756363|$5.79",
+      "ts": 1775599773919
+    },
+    {
+      "key": "target|94935358|$6.89",
+      "ts": 1775599779118
+    },
+    {
+      "key": "target|86691383|$5.49",
+      "ts": 1775599784451
+    },
+    {
+      "key": "amazonus|b005lj8exu|$198.77",
+      "ts": 1775599790752
+    },
+    {
+      "key": "amazonus|b098ds9xpn|$42.49",
+      "ts": 1775599796835
+    },
+    {
+      "key": "amazonus|b07wd9bs96|$43.68",
+      "ts": 1775599802869
     }
   ]
 }
