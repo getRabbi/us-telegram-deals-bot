@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0g4xt82zh|$87.99",
-      "ts": 1774930967560
-    },
-    {
-      "key": "target|94735107|$3.75",
-      "ts": 1774930972841
-    },
-    {
-      "key": "target|95094561|$3.69",
-      "ts": 1774930978566
-    },
-    {
-      "key": "target|1003929232|$4.00",
-      "ts": 1774930983906
-    },
-    {
-      "key": "target|94764273|$4.00",
-      "ts": 1774930989244
-    },
-    {
-      "key": "amazonus|b0f259153m|$38.34",
-      "ts": 1774930995887
-    },
-    {
-      "key": "amazonus|b0fk2hpncb|$599.99",
-      "ts": 1774931002370
-    },
-    {
-      "key": "amazonus|b0c1gp88c4|$35.98",
-      "ts": 1774931008495
-    },
-    {
       "key": "amazonus|b07rfnzyjz|$99.95",
       "ts": 1774951051865
     },
@@ -579,6 +547,22 @@
     {
       "key": "amazonus|b09jzt6yk5|$1,998.00",
       "ts": 1775535507401
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19392063-saint-patrick-s-day-men-s-lucky-cat-o-gold-graphic-t-shirt-2-44-irish-setter-2-54-fs-wm-walmart|$2.44",
+      "ts": 1775555521798
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19392069-5-25-oz-reese-s-popcorn-drizzled-in-reese-s-peanut-butter-chocolate-3-39-w-s-s-free-shipping-w-prime-or-on-35|$3.39",
+      "ts": 1775555526957
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19392060-ymmv-great-value-keto-cheese-nut-and-seed-trail-mix-18-oz-bag-4-fs-wm-walmart|$4",
+      "ts": 1775555532128
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19392096-swingline-cub-compact-metal-stapler-periwinkle-purple-4-91-free-shipping-w-prime-or-on-35|$4.91",
+      "ts": 1775555537289
     }
   ]
 }
