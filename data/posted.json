@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0fsjpfdpv|$399.99",
-      "ts": 1775295209926
-    },
-    {
-      "key": "amazonus|b0c8hpjw4j|$123.49",
-      "ts": 1775295216276
-    },
-    {
-      "key": "amazonus|b0ct97d9r2|$599.99",
-      "ts": 1775295222319
-    },
-    {
-      "key": "amazonus|b08qxj31wr|$79.99",
-      "ts": 1775295227975
-    },
-    {
       "key": "amazonus|b0fvfl86m9|$399.99",
       "ts": 1775339789898
     },
@@ -551,6 +535,38 @@
     {
       "key": "amazonus|b0d85697qv|$39.98",
       "ts": 1775900250043
+    },
+    {
+      "key": "target|95186245|$6.39",
+      "ts": 1775944346653
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19409133-ctek-mxs-5-0-battery-charger-and-maintainer-100-31-w-coupon-on-amazon-ymmv|$14",
+      "ts": 1775944351829
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19409229-dreamworks-spirit-untamed-necklace-activity-set-for-kids-5-31-free-shipping-w-prime-or-on-35|$5.31",
+      "ts": 1775944357007
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19409235-32-count-pop-tarts-frosted-toaster-pastries-cherry-strawberry-6-29-free-shipping-w-prime-or-on-orders-over-35|$6.29",
+      "ts": 1775944362189
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19409214-6-piece-hallmark-shatterproof-elf-ornaments-6-64-free-shipping-w-prime-or-on-35|$6.64",
+      "ts": 1775944367387
+    },
+    {
+      "key": "target|15014058|$7.39",
+      "ts": 1775944372679
+    },
+    {
+      "key": "target|94772571|$7.39",
+      "ts": 1775944377972
+    },
+    {
+      "key": "target|53318444|$8.59",
+      "ts": 1775944384132
     }
   ]
 }
