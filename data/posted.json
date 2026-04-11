@@ -1,50 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0d2hcht5p|$52.99",
-      "ts": 1775253521986
-    },
-    {
-      "key": "amazonus|b0d1j9gmtq|$89.90",
-      "ts": 1775253528128
-    },
-    {
-      "key": "amazonus|b0d1js7gyn|$47.97",
-      "ts": 1775253534197
-    },
-    {
-      "key": "amazonus|b0dynw9sw6|$159.96",
-      "ts": 1775253540262
-    },
-    {
-      "key": "amazonus|b08ywhn79n|$209.94",
-      "ts": 1775275000664
-    },
-    {
-      "key": "target|95094561|$3.19",
-      "ts": 1775275006563
-    },
-    {
-      "key": "target|94764285|$4.00",
-      "ts": 1775275011854
-    },
-    {
-      "key": "target|94626634|$9.00",
-      "ts": 1775275017174
-    },
-    {
-      "key": "amazonus|b0ckp6y6kb|$339.95",
-      "ts": 1775275023688
-    },
-    {
-      "key": "amazonus|b0dyjv5d18|$204.98",
-      "ts": 1775275030393
-    },
-    {
-      "key": "amazonus|b004ubujzg|$215.99",
-      "ts": 1775275035668
-    },
-    {
       "key": "amazonus|b0fsjpfdpv|$399.99",
       "ts": 1775295209926
     },
@@ -559,6 +515,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/19406064-3-pack-32-oz-yeboda-food-storage-canister-glass-jars-w-clamp-airtight-lids-11-96-free-shipping-w-prime-or-on-35|$19.94",
       "ts": 1775858326741
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19406814-sns-1-36-3-9-oz-amazon-grocery-minced-garlic-at-amazon|$1.43",
+      "ts": 1775880066222
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19406826-6-teeturtle-plushmates-horse-unicorn-rainbow-gray-happy-angry-the-reversible-plush-that-hold-hands-at-amazon|$6",
+      "ts": 1775880071279
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19406871-32-count-pop-tarts-toaster-pastries-variety-pack-frosted-cherry-strawberry-6-29-free-shipping-w-prime-or-on-35|$6.29",
+      "ts": 1775880076342
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19406847-69-99-24-5-msi-pro-mp251-e2-1080p-120hz-ips-monitor-at-amazon|$15",
+      "ts": 1775880081430
     }
   ]
 }
