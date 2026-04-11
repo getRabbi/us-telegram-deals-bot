@@ -531,6 +531,26 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/19406847-69-99-24-5-msi-pro-mp251-e2-1080p-120hz-ips-monitor-at-amazon|$15",
       "ts": 1775880081430
+    },
+    {
+      "key": "amazonus|b0gfdn7q3h|$193.49",
+      "ts": 1775900225654
+    },
+    {
+      "key": "target|15014058|$5.39",
+      "ts": 1775900231086
+    },
+    {
+      "key": "amazonus|b0d84zk83g|$39.98",
+      "ts": 1775900238058
+    },
+    {
+      "key": "amazonus|b0d84zn5rh|$39.98",
+      "ts": 1775900244122
+    },
+    {
+      "key": "amazonus|b0d85697qv|$39.98",
+      "ts": 1775900250043
     }
   ]
 }
