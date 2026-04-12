@@ -1,30 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0fvfl86m9|$399.99",
-      "ts": 1775339789898
-    },
-    {
-      "key": "target|94712380|$2.39",
-      "ts": 1775339794921
-    },
-    {
-      "key": "amazonus|b0dypd9g53|$89.98",
-      "ts": 1775339801038
-    },
-    {
-      "key": "amazonus|b0d6bfmnn5|$296.00",
-      "ts": 1775339807144
-    },
-    {
-      "key": "amazonus|b0dnyxkwrv|$199.96",
-      "ts": 1775339813333
-    },
-    {
-      "key": "amazonus|b0dsf75wvr|$35.98",
-      "ts": 1775363039759
-    },
-    {
       "key": "target|47096727|$1.83",
       "ts": 1775363045907
     },
@@ -567,6 +543,22 @@
     {
       "key": "target|53318444|$8.59",
       "ts": 1775944384132
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19409907-2-82-22-oz-lysol-pro-kitchen-spray-cleaner-degreaser-citrus-scent-w-s-s-at-amazon|$2.97",
+      "ts": 1775967939080
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19410039-20-ct-nutella-filled-biscuit-cookies-9-7-oz-total-3-45-w-s-s-free-s-h-w-prime-or-35|$3.45",
+      "ts": 1775967944263
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19409868-5-45-5-8-oz-ghirardelli-milk-chocolate-caramel-snowmen-at-amazon|$5.45",
+      "ts": 1775967949461
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19409904-6-3-mcfarlane-toys-baby-joey-limited-edition-collector-vinyl-superman-movie-4-5in-figure-at-amazon|$6",
+      "ts": 1775967954649
     }
   ]
 }
