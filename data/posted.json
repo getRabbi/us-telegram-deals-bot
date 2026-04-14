@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0dzdrt19h|$399.99",
-      "ts": 1775535465914
-    },
-    {
-      "key": "target|94684069|$4.69",
-      "ts": 1775535471392
-    },
-    {
-      "key": "target|95186245|$5.79",
-      "ts": 1775535477120
-    },
-    {
-      "key": "target|94772571|$5.99",
-      "ts": 1775535482327
-    },
-    {
-      "key": "target|91476998|$5.99",
-      "ts": 1775535488392
-    },
-    {
-      "key": "amazonus|b0f64whp74|$154.98",
-      "ts": 1775535495058
-    },
-    {
-      "key": "amazonus|b09xfl1tq7|$47.99",
-      "ts": 1775535501334
-    },
-    {
-      "key": "amazonus|b09jzt6yk5|$1,998.00",
-      "ts": 1775535507401
-    },
-    {
       "key": "slickdeals|https://slickdeals.net/f/19392063-saint-patrick-s-day-men-s-lucky-cat-o-gold-graphic-t-shirt-2-44-irish-setter-2-54-fs-wm-walmart|$2.44",
       "ts": 1775555521798
     },
@@ -503,6 +471,30 @@
     {
       "key": "target|91485246|$6.39",
       "ts": 1776118015674
+    },
+    {
+      "key": "amazonus|b0c5qrz47p|$49.99",
+      "ts": 1776141105194
+    },
+    {
+      "key": "target|94684069|$2.49",
+      "ts": 1776141110477
+    },
+    {
+      "key": "target|95186245|$5.79",
+      "ts": 1776141116025
+    },
+    {
+      "key": "amazonus|b0dgg3mgdw|$47.95",
+      "ts": 1776141121602
+    },
+    {
+      "key": "amazonus|b0cqsnxljr|$47.94",
+      "ts": 1776141127086
+    },
+    {
+      "key": "amazonus|b0dnyjb2f6|$47.99",
+      "ts": 1776141132541
     }
   ]
 }
