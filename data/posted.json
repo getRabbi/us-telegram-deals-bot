@@ -1,26 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0dy95t5hb|$68.93",
-      "ts": 1775772481058
-    },
-    {
-      "key": "target|94631661|$15.00",
-      "ts": 1775772486208
-    },
-    {
-      "key": "amazonus|b07b4xzk72|$42.99",
-      "ts": 1775772491411
-    },
-    {
-      "key": "amazonus|b0cny11rrw|$76.79",
-      "ts": 1775772497499
-    },
-    {
-      "key": "amazonus|b0cnxxwyss|$76.79",
-      "ts": 1775772503655
-    },
-    {
       "key": "amazonus|b0c2w1klss|$99.95",
       "ts": 1775795581289
     },
@@ -575,6 +555,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/19428915-aerie-women-s-apparel-aerie-apres-chill-sweatshirt-various-colors-13-50-offline-by-aerie-real-me-pleated-flowy-short-9-more-fs-on-75|$9",
       "ts": 1776377048536
+    },
+    {
+      "key": "amazonus|b0fndg2tnk|$119.99",
+      "ts": 1776400342079
+    },
+    {
+      "key": "amazonus|b0fmxcpwbn|$2,148.99",
+      "ts": 1776400348575
+    },
+    {
+      "key": "amazonus|b0ccyp6kfm|$119.99",
+      "ts": 1776400355018
+    },
+    {
+      "key": "amazonus|b0fm48bm14|$52.99",
+      "ts": 1776400361385
     }
   ]
 }
