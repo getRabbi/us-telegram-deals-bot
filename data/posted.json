@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0brsct6tp|$37.78",
-      "ts": 1776314325189
-    },
-    {
-      "key": "target|94756363|$5.79",
-      "ts": 1776314330453
-    },
-    {
-      "key": "target|94745641|$5.99",
-      "ts": 1776314335540
-    },
-    {
-      "key": "target|13319564|$6.69",
-      "ts": 1776314340838
-    },
-    {
-      "key": "amazonus|b0c1bvxl49|$40.01",
-      "ts": 1776314346741
-    },
-    {
-      "key": "amazonus|b0cmtpdrq1|$174.29",
-      "ts": 1776314352878
-    },
-    {
-      "key": "amazonus|b09x2wt2p7|$139.29",
-      "ts": 1776314359095
-    },
-    {
-      "key": "target|13416360|$14.99",
-      "ts": 1776314364608
-    },
-    {
       "key": "amazonus|b01hog83me|$50.51",
       "ts": 1776334291905
     },
@@ -531,6 +499,26 @@
     {
       "key": "amazonus|b0fncyglz2|$39.09",
       "ts": 1776919072200
+    },
+    {
+      "key": "target|13416360|$14.99",
+      "ts": 1776939223066
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19451283-109-ego-power-56v-2-5ah-lithium-ion-battery-w-fuel-gauge-at-amazon|$9.96",
+      "ts": 1776939228051
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19451205-12-piece-shany-lip-gloss-set-5-40-w-s-s-free-shipping-w-prime-or-on-35|$5.40",
+      "ts": 1776939233025
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19451298-51-99-730-piece-lego-disney-lilo-stitch-stitch-43249-2024-at-amazon|$3",
+      "ts": 1776939238004
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19451238-sns-ac-4-17-2-30-ct-band-aid-flexible-fabric-adhesive-bandages-one-size-2-08-each-at-amazon|$2.08",
+      "ts": 1776939242999
     }
   ]
 }
