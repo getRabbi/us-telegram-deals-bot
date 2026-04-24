@@ -1,34 +1,6 @@
 {
   "posted": [
     {
-      "key": "target|13418113|$5",
-      "ts": 1776377016683
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19428846-6-pack-christmas-scented-candles-for-home-soy-set-21-oz-jar-9-99-1-66-ea-free-shipping-w-prime-or-on-35|$1.66",
-      "ts": 1776377022041
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19428906-79-95-apple-watch-band-milanese-loop-42mm-slate-one-size-at-amazon|$19.05",
-      "ts": 1776377027218
-    },
-    {
-      "key": "target|17004537|$6.99",
-      "ts": 1776377032919
-    },
-    {
-      "key": "target|90777455|$4.19",
-      "ts": 1776377038195
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19428924-24-99-2-5l-levoit-classic-160-ultrasonic-cool-mist-humidifier-at-amazon|$15",
-      "ts": 1776377043343
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19428915-aerie-women-s-apparel-aerie-apres-chill-sweatshirt-various-colors-13-50-offline-by-aerie-real-me-pleated-flowy-short-9-more-fs-on-75|$9",
-      "ts": 1776377048536
-    },
-    {
       "key": "amazonus|b0fndg2tnk|$119.99",
       "ts": 1776400342079
     },
@@ -507,6 +479,38 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/19453641-51-colors-0-7-oz-ciaraq-polymer-clay-starter-kit-w-sculpting-tools-9-34-free-shipping-w-prime-or-on-35|$18.68",
       "ts": 1776981957552
+    },
+    {
+      "key": "amazonus|b0cwl9s4l1|$69.99",
+      "ts": 1777005678998
+    },
+    {
+      "key": "target|95226723|$3.19",
+      "ts": 1777005684282
+    },
+    {
+      "key": "target|89089651|$4.39",
+      "ts": 1777005689759
+    },
+    {
+      "key": "target|13418113|$5",
+      "ts": 1777005694857
+    },
+    {
+      "key": "target|17296921|$5.49",
+      "ts": 1777005700086
+    },
+    {
+      "key": "amazonus|b01b1vc13k|$99.99",
+      "ts": 1777005706409
+    },
+    {
+      "key": "amazonus|b0dhlql58y|$255.99",
+      "ts": 1777005712727
+    },
+    {
+      "key": "amazonus|b0dxwg8831|$255.99",
+      "ts": 1777005718670
     }
   ]
 }
