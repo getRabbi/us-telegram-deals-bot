@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0gjrt9xt5|$99.99",
-      "ts": 1776549570188
-    },
-    {
-      "key": "target|95094547|$2.79",
-      "ts": 1776549575236
-    },
-    {
-      "key": "target|94935358|$5.89",
-      "ts": 1776549580373
-    },
-    {
-      "key": "target|89169456|$6.59",
-      "ts": 1776549585480
-    },
-    {
-      "key": "target|94723676|$4.39",
-      "ts": 1776549590522
-    },
-    {
-      "key": "amazonus|b0bvzfq4df|$54.97",
-      "ts": 1776549596637
-    },
-    {
-      "key": "amazonus|b0drgcbrmq|$2,779.99",
-      "ts": 1776549603003
-    },
-    {
-      "key": "amazonus|b0d8wjysf9|$79.99",
-      "ts": 1776549608001
-    },
-    {
       "key": "amazonus|b0bn2lz9jh|$168.99",
       "ts": 1776573535862
     },
@@ -507,6 +475,26 @@
     {
       "key": "amazonus|b0b1zzcs4z|$37.75",
       "ts": 1777154662629
+    },
+    {
+      "key": "target|13418113|$15.00",
+      "ts": 1777178494957
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19460457-sns-2-20-1-oz-mccormick-banana-extract-at-amazon|$2.32",
+      "ts": 1777178500081
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19460448-12-pack-12-oz-dr-pepper-creamy-coconut-soda-5-free-shipping-w-prime-or-on-35|$5",
+      "ts": 1777178505189
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19460403-5-72-squishmallows-original-care-bears-10in-cheer-bear-hugmees-ultrasoft-official-jazwares-plush-medium-sized-at-amazon|$5.72",
+      "ts": 1777178510296
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19460430-399-95-breville-joule-oven-air-fryer-pro-brushed-stainless-steel-at-amazon|$100",
+      "ts": 1777178515410
     }
   ]
 }
