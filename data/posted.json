@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0bn2lz9jh|$168.99",
-      "ts": 1776573535862
-    },
-    {
-      "key": "amazonus|b0cb6b2jwg|$149.93",
-      "ts": 1776573541724
-    },
-    {
-      "key": "amazonus|b0g2np22vp|$95.20",
-      "ts": 1776573547383
-    },
-    {
-      "key": "amazonus|b0g2pg7wpx|$95.20",
-      "ts": 1776573553503
-    },
-    {
       "key": "amazonus|b00004sy4h|$272.00",
       "ts": 1776591755870
     },
@@ -495,6 +479,38 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/19460430-399-95-breville-joule-oven-air-fryer-pro-brushed-stainless-steel-at-amazon|$100",
       "ts": 1777178515410
+    },
+    {
+      "key": "amazonus|b0fndg2tnk|$119.99",
+      "ts": 1777196801799
+    },
+    {
+      "key": "target|95093416|$3.39",
+      "ts": 1777196808047
+    },
+    {
+      "key": "target|15014058|$5.69",
+      "ts": 1777196813180
+    },
+    {
+      "key": "target|94223852|$6.99",
+      "ts": 1777196819392
+    },
+    {
+      "key": "target|13674089|$7.49",
+      "ts": 1777196824544
+    },
+    {
+      "key": "amazonus|b0byfr7t23|$399.95",
+      "ts": 1777196830477
+    },
+    {
+      "key": "amazonus|b0d6j5b98h|$109.98",
+      "ts": 1777196836739
+    },
+    {
+      "key": "amazonus|b0drg2hmd2|$748.99",
+      "ts": 1777196841945
     }
   ]
 }
