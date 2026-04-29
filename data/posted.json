@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0fnq4b2z2|$479.99",
-      "ts": 1776832416417
-    },
-    {
-      "key": "amazonus|b0bvst3ndp|$83.56",
-      "ts": 1776832422554
-    },
-    {
-      "key": "amazonus|b075f8tcf2|$56.69",
-      "ts": 1776832428248
-    },
-    {
-      "key": "amazonus|b09zk9w2c9|$45.56",
-      "ts": 1776832433993
-    },
-    {
       "key": "amazonus|b0bs1prc4l|$36.95",
       "ts": 1776853030406
     },
@@ -479,6 +463,26 @@
     {
       "key": "target|94883297|$39.99",
       "ts": 1777414843481
+    },
+    {
+      "key": "target|94756363|$5.49",
+      "ts": 1777438093589
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19471164-100-count-nature-s-bounty-potassium-gluconate-99mg-dietary-supplement-vegetarian-caplets-2-90-w-s-s-free-shipping-w-prime-or-on-35|$5.27",
+      "ts": 1777438098778
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19471131-walgreens-75-off-all-same-day-magnets-with-code-today|",
+      "ts": 1777438103956
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19471122-9-8-cando-10-1745-economy-balance-board-at-amazon|$9",
+      "ts": 1777438109161
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19471146-appletv-4-99-horror-films-parasite-us-alien-movies-scream-movies-jurassic-world-trilogy-14-99-lots-more|$4.99",
+      "ts": 1777438114349
     }
   ]
 }
