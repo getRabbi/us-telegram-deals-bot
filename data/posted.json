@@ -1,42 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0f3bjj9dj|$44.99",
-      "ts": 1777154643343
-    },
-    {
-      "key": "amazonus|b0dqlr6w9g|$202.49",
-      "ts": 1777154649932
-    },
-    {
-      "key": "amazonus|b09gtrvjqm|$39.97",
-      "ts": 1777154656093
-    },
-    {
-      "key": "amazonus|b0b1zzcs4z|$37.75",
-      "ts": 1777154662629
-    },
-    {
-      "key": "target|13418113|$15.00",
-      "ts": 1777178494957
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19460457-sns-2-20-1-oz-mccormick-banana-extract-at-amazon|$2.32",
-      "ts": 1777178500081
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19460448-12-pack-12-oz-dr-pepper-creamy-coconut-soda-5-free-shipping-w-prime-or-on-35|$5",
-      "ts": 1777178505189
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19460403-5-72-squishmallows-original-care-bears-10in-cheer-bear-hugmees-ultrasoft-official-jazwares-plush-medium-sized-at-amazon|$5.72",
-      "ts": 1777178510296
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19460430-399-95-breville-joule-oven-air-fryer-pro-brushed-stainless-steel-at-amazon|$100",
-      "ts": 1777178515410
-    },
-    {
       "key": "amazonus|b0fndg2tnk|$119.99",
       "ts": 1777196801799
     },
@@ -515,6 +479,38 @@
     {
       "key": "amazonus|b0crr325dw|$344.94",
       "ts": 1777759693863
+    },
+    {
+      "key": "amazonus|b0dqlqvybb|$224.99",
+      "ts": 1777784674657
+    },
+    {
+      "key": "target|79401805|$6.29",
+      "ts": 1777784679943
+    },
+    {
+      "key": "target|95095563|$6.49",
+      "ts": 1777784685491
+    },
+    {
+      "key": "target|15014058|$7.39",
+      "ts": 1777784690752
+    },
+    {
+      "key": "target|94223852|$8.59",
+      "ts": 1777784696272
+    },
+    {
+      "key": "amazonus|b0dqlr6w9g|$202.49",
+      "ts": 1777784702103
+    },
+    {
+      "key": "amazonus|b08n6c4gpp|$446.46",
+      "ts": 1777784708755
+    },
+    {
+      "key": "amazonus|b00005up2l|$379.95",
+      "ts": 1777784715168
     }
   ]
 }
