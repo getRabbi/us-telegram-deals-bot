@@ -1,42 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0ffslg3wz|$1,198.99",
-      "ts": 1777414808020
-    },
-    {
-      "key": "target|95298848|$5.99",
-      "ts": 1777414813519
-    },
-    {
-      "key": "target|94984521|$6.99",
-      "ts": 1777414818914
-    },
-    {
-      "key": "amazonus|b0c1gp88c4|$35.98",
-      "ts": 1777414825354
-    },
-    {
-      "key": "amazonus|b0dw237zlb|$399.99",
-      "ts": 1777414831926
-    },
-    {
-      "key": "amazonus|b08l85sv5z|$109.74",
-      "ts": 1777414838255
-    },
-    {
-      "key": "target|94883297|$39.99",
-      "ts": 1777414843481
-    },
-    {
-      "key": "target|94756363|$5.49",
-      "ts": 1777438093589
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19471164-100-count-nature-s-bounty-potassium-gluconate-99mg-dietary-supplement-vegetarian-caplets-2-90-w-s-s-free-shipping-w-prime-or-on-35|$5.27",
-      "ts": 1777438098778
-    },
-    {
       "key": "slickdeals|https://slickdeals.net/f/19471131-walgreens-75-off-all-same-day-magnets-with-code-today|",
       "ts": 1777438103956
     },
@@ -531,6 +495,38 @@
     {
       "key": "amazonus|b08fp95rqd|$219.99",
       "ts": 1778019763462
+    },
+    {
+      "key": "amazonus|b0d7n2kwlh|$398.99",
+      "ts": 1778043436687
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19494792-braun-ipl-at-home-laser-hair-removal-permanent-hair-reduction-venus-razor-239-99-9-99-shipping-costco-com-250|$9.99",
+      "ts": 1778043441698
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19494804-cherry-mx-keys-3-0s-wired-rgb-mechanical-gaming-keyboard-white-34-99-free-shipping-w-prime|$6",
+      "ts": 1778043446699
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19494729-20-pack-7-5-oz-fanta-orange-soda-6-22-free-shipping-w-prime-or-on-35|$6.22",
+      "ts": 1778043451691
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19494708-kohl-s-clearance-save-up-to-80-off-after-an-extra-50-off|",
+      "ts": 1778043456730
+    },
+    {
+      "key": "amazonus|b0bxd62w8r|$339.39",
+      "ts": 1778043463110
+    },
+    {
+      "key": "amazonus|b0fdkpflfp|$399.00",
+      "ts": 1778043468912
+    },
+    {
+      "key": "amazonus|b0b9yp76fn|$249.95",
+      "ts": 1778043475237
     }
   ]
 }
