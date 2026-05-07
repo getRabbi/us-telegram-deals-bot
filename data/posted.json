@@ -1,58 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0d8wjysf9|$76.99",
-      "ts": 1777525147668
-    },
-    {
-      "key": "target|94723676|$4.39",
-      "ts": 1777525152803
-    },
-    {
-      "key": "target|89169456|$6.59",
-      "ts": 1777525157919
-    },
-    {
-      "key": "target|94935358|$5.89",
-      "ts": 1777525162985
-    },
-    {
-      "key": "target|89243760|$5.39",
-      "ts": 1777525168254
-    },
-    {
-      "key": "amazonus|b07y5vqyfw|$287.99",
-      "ts": 1777525174468
-    },
-    {
-      "key": "amazonus|b07y5x8g4b|$199.99",
-      "ts": 1777525182436
-    },
-    {
-      "key": "amazonus|b0f6724x5n|$649.99",
-      "ts": 1777525188001
-    },
-    {
-      "key": "amazonus|b08bchkg2d|$589.97",
-      "ts": 1777545640551
-    },
-    {
-      "key": "target|13429188|$7.69",
-      "ts": 1777545645871
-    },
-    {
-      "key": "amazonus|b0fsdryw8h|$132.98",
-      "ts": 1777545652505
-    },
-    {
-      "key": "amazonus|b08jm7gwqm|$39.98",
-      "ts": 1777545659192
-    },
-    {
-      "key": "amazonus|b0dqltcjxf|$224.99",
-      "ts": 1777545665459
-    },
-    {
       "key": "amazonus|b0fldvwxzc|$399.99",
       "ts": 1777587619733
     },
@@ -547,6 +495,38 @@
     {
       "key": "amazonus|b0bmp2ms1c|$269.99",
       "ts": 1778130047394
+    },
+    {
+      "key": "amazonus|b0djljvs16|$219.97",
+      "ts": 1778151921415
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19498932-5-29-krylon-k02203-general-purpose-12-ounces-brilliant-spray-paint-metallic-copper-at-amazon|$5.29",
+      "ts": 1778151926655
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19498902-12-squishmallows-original-sanrio-halloween-2025-chococat-5-73-free-shipping-w-prime-or-on-35|$5.73",
+      "ts": 1778151931772
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19498884-10-79-hello-kitty-create-your-own-squishy-diary-at-amazon|$2.70",
+      "ts": 1778151936893
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19498854-9-52-13-pc-hello-kitty-friends-halloween-countdown-calendar-at-amazon|$9.52",
+      "ts": 1778151942001
+    },
+    {
+      "key": "amazonus|b0ctzxps1t|$299.98",
+      "ts": 1778151947860
+    },
+    {
+      "key": "amazonus|b084xt9kcn|$279.98",
+      "ts": 1778151954661
+    },
+    {
+      "key": "amazonus|b07qhq8cd3|$379.99",
+      "ts": 1778151960682
     }
   ]
 }
