@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0c41q1ml4|$338.18",
-      "ts": 1778130007947
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19498245-375-86-31-5-acer-nitro-xv325qk-3840x2160-4k-uhd-160hz-0-5ms-miniled-ips-monitor-at-amazon|$32.27",
-      "ts": 1778130013078
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19498203-3-50-purolator-one-pl36296-engine-oil-filter-grand-cherokee-wrangler-more-at-amazon|$3.50",
-      "ts": 1778130018212
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19498251-winco-detachable-kitchen-shears-3-85-free-shipping-w-prime-or-on-35|$3.85",
-      "ts": 1778130023456
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19498293-ecco-men-s-classic-lace-up-sneaker-cognac-45-98-free-shipping|$10",
-      "ts": 1778130028648
-    },
-    {
-      "key": "amazonus|b0gr4pfc2d|$349.99",
-      "ts": 1778130035242
-    },
-    {
-      "key": "amazonus|b09b7wrm8p|$219.99",
-      "ts": 1778130040879
-    },
-    {
-      "key": "amazonus|b0bmp2ms1c|$269.99",
-      "ts": 1778130047394
-    },
-    {
       "key": "amazonus|b0djljvs16|$219.97",
       "ts": 1778151921415
     },
@@ -527,6 +495,38 @@
     {
       "key": "amazonus|b075dzy7fr|$254.99",
       "ts": 1778712601589
+    },
+    {
+      "key": "amazonus|b08hsvcb5m|$289.99",
+      "ts": 1778735449335
+    },
+    {
+      "key": "target|84111410|$8.59",
+      "ts": 1778735454607
+    },
+    {
+      "key": "target|50694768|$6.49",
+      "ts": 1778735459849
+    },
+    {
+      "key": "target|94740943|$5.79",
+      "ts": 1778735465398
+    },
+    {
+      "key": "target|94723676|$4.89",
+      "ts": 1778735470679
+    },
+    {
+      "key": "amazonus|b08hstjpm5|$229.99",
+      "ts": 1778735476816
+    },
+    {
+      "key": "amazonus|b0czs6ss3y|$209.95",
+      "ts": 1778735483208
+    },
+    {
+      "key": "amazonus|b0002kvqba|$209.00",
+      "ts": 1778735489565
     }
   ]
 }
