@@ -1,70 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b09nstl95c|$359.97",
-      "ts": 1778712563533
-    },
-    {
-      "key": "target|84111410|$6.99",
-      "ts": 1778712568683
-    },
-    {
-      "key": "target|50694768|$5.99",
-      "ts": 1778712573880
-    },
-    {
-      "key": "target|85269288|$27",
-      "ts": 1778712579078
-    },
-    {
-      "key": "target|93287835|$15.00",
-      "ts": 1778712584194
-    },
-    {
-      "key": "amazonus|b07f3dnq4q|$409.98",
-      "ts": 1778712590407
-    },
-    {
-      "key": "amazonus|b07yxpb4bh|$287.99",
-      "ts": 1778712596575
-    },
-    {
-      "key": "amazonus|b075dzy7fr|$254.99",
-      "ts": 1778712601589
-    },
-    {
-      "key": "amazonus|b08hsvcb5m|$289.99",
-      "ts": 1778735449335
-    },
-    {
-      "key": "target|84111410|$8.59",
-      "ts": 1778735454607
-    },
-    {
-      "key": "target|50694768|$6.49",
-      "ts": 1778735459849
-    },
-    {
-      "key": "target|94740943|$5.79",
-      "ts": 1778735465398
-    },
-    {
-      "key": "target|94723676|$4.89",
-      "ts": 1778735470679
-    },
-    {
-      "key": "amazonus|b08hstjpm5|$229.99",
-      "ts": 1778735476816
-    },
-    {
-      "key": "amazonus|b0czs6ss3y|$209.95",
-      "ts": 1778735483208
-    },
-    {
-      "key": "amazonus|b0002kvqba|$209.00",
-      "ts": 1778735489565
-    },
-    {
       "key": "amazonus|b0c41q1ml4|$338.18",
       "ts": 1778757267752
     },
@@ -583,6 +519,50 @@
     {
       "key": "target|1003792862|$4.99",
       "ts": 1779317719680
+    },
+    {
+      "key": "amazonus|b0dt6tpz8x|$37.97",
+      "ts": 1779342608183
+    },
+    {
+      "key": "target|84131282|$6.39",
+      "ts": 1779342613288
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19545387-12-count-14-oz-arm-hammer-baking-soda-fridge-n-freezer-odor-absorber-9-69-0-81-each-w-s-s-free-shipping-w-prime-or-on-35|$0.81",
+      "ts": 1779342618307
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19545357-sns-ac-19-87-12-pack-2-12-oz-quest-protein-bar-ultimate-variety-pack-at-amazon-1-66-each|$1.66",
+      "ts": 1779342623397
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19545393-anchor-hocking-2-cup-glass-measuring-cup-3-97-free-shipping-w-walmart-or-on-35|$3.97",
+      "ts": 1779342628426
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19545402-amy-and-annette-14k-white-gold-adjustable-tennis-bracelet-with-crystals-from-swarovski-in-14k-white-gold-plated-15|$15",
+      "ts": 1779342633457
+    },
+    {
+      "key": "amazonus|b0cggyyk2d|$399.00",
+      "ts": 1779342639588
+    },
+    {
+      "key": "amazonus|b0fztthnkk|$37.79",
+      "ts": 1779342645952
+    },
+    {
+      "key": "target|90775216|$5.99",
+      "ts": 1779342651237
+    },
+    {
+      "key": "target|89409909|$5.75",
+      "ts": 1779342656312
+    },
+    {
+      "key": "target|92785491|$4.92",
+      "ts": 1779342661415
     }
   ]
 }
