@@ -1,30 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b07gl7pnpq|$499.00",
-      "ts": 1778822161448
-    },
-    {
-      "key": "amazonus|b07glk1nc2|$389.00",
-      "ts": 1778822167230
-    },
-    {
-      "key": "amazonus|b0fvvfjq43|$59.99",
-      "ts": 1778843795689
-    },
-    {
-      "key": "amazonus|b007o1cazq|$58.26",
-      "ts": 1778843801975
-    },
-    {
-      "key": "amazonus|b0fx4sz4kb|$549.99",
-      "ts": 1778843807615
-    },
-    {
-      "key": "amazonus|b08nlcw9wy|$199.95",
-      "ts": 1778843813781
-    },
-    {
       "key": "amazonus|b0g92ksxwp|$75.96",
       "ts": 1778883720366
     },
@@ -591,6 +567,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/19549203-garvee-8000-btu-portable-air-conditioner-3-in-1-ac-unit-built-in-cool-up-to-350-sq-ft-266-8|$266",
       "ts": 1779427628531
+    },
+    {
+      "key": "target|1011021082|$6.40",
+      "ts": 1779449889201
+    },
+    {
+      "key": "target|54083350|$6.00",
+      "ts": 1779449894470
+    },
+    {
+      "key": "target|94369873|$7.00",
+      "ts": 1779449899868
+    },
+    {
+      "key": "target|93336780|$11.50",
+      "ts": 1779449905078
     }
   ]
 }
