@@ -1,34 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b08lmvjj9q|$84.99",
-      "ts": 1779143155784
-    },
-    {
-      "key": "target|82539838|$1",
-      "ts": 1779143162078
-    },
-    {
-      "key": "target|52250370|$3",
-      "ts": 1779143167438
-    },
-    {
-      "key": "target|46770795|$5",
-      "ts": 1779143172876
-    },
-    {
-      "key": "target|95074939|$9.99",
-      "ts": 1779143178124
-    },
-    {
-      "key": "amazonus|b0f42hl42g|$114.70",
-      "ts": 1779143185037
-    },
-    {
-      "key": "amazonus|b0bdgg9tm8|$74.99",
-      "ts": 1779143191324
-    },
-    {
       "key": "amazonus|b0cy3kqfdn|$878.95",
       "ts": 1779168383010
     },
@@ -643,6 +615,38 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/19560519-roborock-qx-revo-plus-robot-vacuum-and-mop-with-multifunctional-dock-3-0-480|$480",
       "ts": 1779748183689
+    },
+    {
+      "key": "amazonus|b0dqhfg94h|$49.95",
+      "ts": 1779773204345
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19561407-ac-134-dewalt-20v-max-cordless-drill-impact-driver-combo-kit-10-back-w-prime-visa-card-at-amazon|$15",
+      "ts": 1779773209377
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19561500-2-pack-18-3-oz-cookie-crisp-breakfast-cereal-6-93-w-s-s-free-shipping-w-prime-or-on-orders-over-35|$6.93",
+      "ts": 1779773214639
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19561413-95-99-100-qt-coleman-marine-cooler-w-fully-insulated-uv-guard-lid-wheels-at-amazon|$24",
+      "ts": 1779773219708
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19561479-nba-2k26-xbox-series-x-10-free-shipping-w-prime-or-on-orders-over-35|$10",
+      "ts": 1779773225043
+    },
+    {
+      "key": "amazonus|b0gtc1n9rv|$349.99",
+      "ts": 1779773231313
+    },
+    {
+      "key": "amazonus|b0f1cc7wn9|$40.00",
+      "ts": 1779773237408
+    },
+    {
+      "key": "amazonus|b0fvlbm3yw|$169.98",
+      "ts": 1779773243927
     }
   ]
 }
