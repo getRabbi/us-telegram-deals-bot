@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "target|1011021082|$6.40",
-      "ts": 1779449889201
-    },
-    {
-      "key": "target|54083350|$6.00",
-      "ts": 1779449894470
-    },
-    {
-      "key": "target|94369873|$7.00",
-      "ts": 1779449899868
-    },
-    {
-      "key": "target|93336780|$11.50",
-      "ts": 1779449905078
-    },
-    {
       "key": "target|89824131|$9.63",
       "ts": 1779488838219
     },
@@ -571,6 +555,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/19572549-frigidaire-1-6-cu-ft-mini-fridge-in-black-49-99-meijer|$49.99",
       "ts": 1780033563012
+    },
+    {
+      "key": "amazonus|b0d1cb4b6z|$239.98",
+      "ts": 1780056455266
+    },
+    {
+      "key": "amazonus|b08hstjpm5|$229.99",
+      "ts": 1780056462147
+    },
+    {
+      "key": "amazonus|b07pj2zx6r|$479.99",
+      "ts": 1780056468640
+    },
+    {
+      "key": "amazonus|b0f3pqhwtz|$398.00",
+      "ts": 1780056474493
     }
   ]
 }
