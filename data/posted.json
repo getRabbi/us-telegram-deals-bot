@@ -1,58 +1,6 @@
 {
   "posted": [
     {
-      "key": "target|94684060|$5.54",
-      "ts": 1779403988133
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19548270-sns-ac-23-99-2-1-12-pound-vega-micronized-creatine-monohydrate-powder-11-99-each-at-amazon|$11.99",
-      "ts": 1779403993315
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19548285-spend-35-get-10-off-on-select-snack-items-cereals-cake-mixes-granola-bars-and-more-amazon|$10",
-      "ts": 1779403998506
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19548399-sam-s-club-members-hoka-men-s-ora-recovery-slide-3-white-or-sand-23-81-free-shipping-50-plus-members|$23.81",
-      "ts": 1779404003703
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19548261-sns-ac-20-46-2-20-pack-0-92-oz-atkins-caramel-almond-clusters-10-23-each-at-amazon|$20.46",
-      "ts": 1779404008880
-    },
-    {
-      "key": "target|13674089|$7.49",
-      "ts": 1779404014093
-    },
-    {
-      "key": "target|17296921|$6.89",
-      "ts": 1779404019607
-    },
-    {
-      "key": "target|13347732|$6.89",
-      "ts": 1779404024845
-    },
-    {
-      "key": "target|94684060|$7.19",
-      "ts": 1779427608167
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19549248-6-34-kohler-kitchen-sink-squeegee-countertop-brush-at-amazon|$1.61",
-      "ts": 1779427613261
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19549215-vans-daily-18-boardshorts-11-97-vans-women-s-authentic-shoe-23-97-more-free-shipping-on-50|$23.97",
-      "ts": 1779427618337
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19549197-5-count-95-sheet-scotch-brite-lint-rollers-3-49-free-shipping-w-prime|$3.49",
-      "ts": 1779427623429
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19549203-garvee-8000-btu-portable-air-conditioner-3-in-1-ac-unit-built-in-cool-up-to-350-sq-ft-266-8|$266",
-      "ts": 1779427628531
-    },
-    {
       "key": "target|1011021082|$6.40",
       "ts": 1779449889201
     },
@@ -607,6 +555,22 @@
     {
       "key": "target|94723676|$4.49",
       "ts": 1780009024588
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19572513-2-75-oz-mccormick-grill-mates-roasted-garlic-herb-seasoning-1-42-w-s-s-free-shipping-w-prime-or-on-orders-over-35|$1.42",
+      "ts": 1780033548024
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19572537-24-oz-badia-lemon-pepper-seasoning-4-79-free-shipping-w-prime-or-on-orders-over-35|$4.79",
+      "ts": 1780033553021
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19572558-12-pack-16-oz-arizona-green-tea-w-ginseng-and-honey-6-27-free-shipping-w-prime-or-on-orders-over-35|$6.27",
+      "ts": 1780033558023
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19572549-frigidaire-1-6-cu-ft-mini-fridge-in-black-49-99-meijer|$49.99",
+      "ts": 1780033563012
     }
   ]
 }
