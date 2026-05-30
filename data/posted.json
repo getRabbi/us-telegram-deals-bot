@@ -1,58 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0914vn2t5|$377.98",
-      "ts": 1779512767536
-    },
-    {
-      "key": "target|94098911|$8.85",
-      "ts": 1779512772845
-    },
-    {
-      "key": "target|1009447903|$15.00",
-      "ts": 1779512778257
-    },
-    {
-      "key": "target|94768201|$15.00",
-      "ts": 1779512783551
-    },
-    {
-      "key": "target|94898625|$7.00",
-      "ts": 1779512788952
-    },
-    {
-      "key": "amazonus|b0f1bmm2b7|$43.99",
-      "ts": 1779531989115
-    },
-    {
-      "key": "target|94899550|$8.40",
-      "ts": 1779531994237
-    },
-    {
-      "key": "amazonus|b086pcbnnf|$121.06",
-      "ts": 1779532000485
-    },
-    {
-      "key": "amazonus|b0fwgb3tc6|$157.39",
-      "ts": 1779532006244
-    },
-    {
-      "key": "amazonus|b0dxmhm1ny|$175.00",
-      "ts": 1779532012490
-    },
-    {
-      "key": "target|94811360|$8.40",
-      "ts": 1779532018035
-    },
-    {
-      "key": "target|90669251|$9.86",
-      "ts": 1779532023235
-    },
-    {
-      "key": "target|95257154|$10.00",
-      "ts": 1779532028522
-    },
-    {
       "key": "amazonus|b0fmhj8hpr|$359.99",
       "ts": 1779574779500
     },
@@ -611,6 +559,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/19575960-15-99-kiss-dynasty-vinyl-at-amazon|$4.64",
       "ts": 1780117618113
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19576773-prime-3-99-12-pk-7-x8-aidea-non-scratch-wire-dishcloths-at-amazon|$3.99",
+      "ts": 1780137167437
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19576767-5-39-6000-pc-ymsdzhl-clay-beads-bracelet-making-kit-at-amazon|$5.39",
+      "ts": 1780137172513
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19576770-sns-ac-9-06-2-90-count-nature-s-bounty-vitamin-d3-gummies-strawberry-orange-lemon-4-53-each-at-amazon|$4.53",
+      "ts": 1780137177573
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19576836-8-tekton-9-tool-combination-wrench-roll-1-4-3-4-in-org27309-at-amazon|$8",
+      "ts": 1780137182577
     }
   ]
 }
