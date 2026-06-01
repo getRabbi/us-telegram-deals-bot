@@ -1,70 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0fftqw5nm|$849.00",
-      "ts": 1779661293383
-    },
-    {
-      "key": "target|93013893|$15.00",
-      "ts": 1779661298728
-    },
-    {
-      "key": "target|90669251|$15.00",
-      "ts": 1779661304194
-    },
-    {
-      "key": "target|94924591|$15.00",
-      "ts": 1779661309406
-    },
-    {
-      "key": "target|93336780|$35",
-      "ts": 1779661314914
-    },
-    {
-      "key": "amazonus|b0fftskp7m|$949.00",
-      "ts": 1779661320815
-    },
-    {
-      "key": "amazonus|b0cggjhzsm|$399.00",
-      "ts": 1779661327249
-    },
-    {
-      "key": "amazonus|b0d2w12ryz|$223.59",
-      "ts": 1779661333657
-    },
-    {
-      "key": "amazonus|b0fhlgwjns|$278.99",
-      "ts": 1779688999113
-    },
-    {
-      "key": "target|1009447903|$16.17",
-      "ts": 1779689004327
-    },
-    {
-      "key": "amazonus|b0cdqm55c9|$1,499.99",
-      "ts": 1779689010507
-    },
-    {
-      "key": "target|92312509|$15.00",
-      "ts": 1779689015652
-    },
-    {
-      "key": "target|92160530|$15.00",
-      "ts": 1779689020790
-    },
-    {
-      "key": "amazonus|b0f151gfyr|$199.99",
-      "ts": 1779689026975
-    },
-    {
-      "key": "amazonus|b0dzwhdyyy|$68.00",
-      "ts": 1779689032523
-    },
-    {
-      "key": "target|94894738|$12.60",
-      "ts": 1779689037566
-    },
-    {
       "key": "amazonus|b09k1hhztm|$109.99",
       "ts": 1779711785319
     },
@@ -591,6 +527,38 @@
     {
       "key": "amazonus|b0dnyz9s28|$203.99",
       "ts": 1780266020100
+    },
+    {
+      "key": "target|94851228|$8.40",
+      "ts": 1780295109103
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19581306-8-dora-official-plush-doll-isa-3-41-free-shipping-w-prime-or-on-orders-over-35|$3.41",
+      "ts": 1780295114398
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19581321-ac-5-99-40-oz-renoj-insulated-mug-blue-at-amazon|$4.00",
+      "ts": 1780295119564
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19581252-5-teeturtle-cloudheads-teenage-mutant-ninja-turtles-leonardo-plush-3-83-free-shipping-w-prime-or-on-orders-over-35|$3.83",
+      "ts": 1780295124718
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19581261-4-pack-8-4-oz-red-bull-peach-edition-sugarfree-energy-drink-white-peach-6-39-w-s-s-free-shipping-w-prime-or-on-orders-over-35|$6.39",
+      "ts": 1780295129858
+    },
+    {
+      "key": "target|95033149|$15.00",
+      "ts": 1780295135204
+    },
+    {
+      "key": "target|85978609|$19",
+      "ts": 1780295140716
+    },
+    {
+      "key": "target|94651515|$28",
+      "ts": 1780295145896
     }
   ]
 }
