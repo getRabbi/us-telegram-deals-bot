@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0fhlp9m1n|$497.99",
-      "ts": 1779835811530
-    },
-    {
-      "key": "target|86681726|$1",
-      "ts": 1779835817479
-    },
-    {
-      "key": "target|15064055|$1",
-      "ts": 1779835823725
-    },
-    {
-      "key": "target|84812998|$4.50",
-      "ts": 1779835828750
-    },
-    {
-      "key": "target|88058703|$10",
-      "ts": 1779835833939
-    },
-    {
-      "key": "amazonus|b09xs7jwhh|$248.00",
-      "ts": 1779835839678
-    },
-    {
-      "key": "amazonus|b07gl7pnpq|$499.00",
-      "ts": 1779835845812
-    },
-    {
-      "key": "amazonus|b0ckp6y6kb|$339.95",
-      "ts": 1779835851447
-    },
-    {
       "key": "amazonus|b0bxycs74h|$248.00",
       "ts": 1779861309975
     },
@@ -567,6 +535,26 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/19586307-up-to-50-off-of-ground-coffee-bags-plus-free-shipping-on-orders-over-35|$35",
       "ts": 1780403551779
+    },
+    {
+      "key": "target|88058703|$10",
+      "ts": 1780441927705
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19588398-5-count-four-candies-0-7mm-metal-mechanical-pencils-w-lead-eraser-refills-case-6-59-w-s-s-free-shipping-w-prime-or-on-35|$6.59",
+      "ts": 1780441932696
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19588347-zeagoo-womens-sleeveless-crewneck-ribbed-tank-tops-various-6-99-free-shipping-w-prime|$6.99",
+      "ts": 1780441937686
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19588449-nautilus-weighted-vest-12-lb-with-adjustable-fit-24-99-free-shipping-costco-com|$5",
+      "ts": 1780441942669
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19588353-msebent-apple-mfi-certified-wallet-tracker-card-w-wireless-charging-7-59-free-shipping-w-prime-or-on-35|$7.59",
+      "ts": 1780441947763
     }
   ]
 }
