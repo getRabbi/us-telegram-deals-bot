@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0bxycs74h|$248.00",
-      "ts": 1779861309975
-    },
-    {
-      "key": "target|90471880|$45.00",
-      "ts": 1779861315224
-    },
-    {
-      "key": "target|84780837|$4.99",
-      "ts": 1779861320478
-    },
-    {
-      "key": "target|82102549|$8.99",
-      "ts": 1779861326828
-    },
-    {
-      "key": "target|85829668|$6.99",
-      "ts": 1779861331928
-    },
-    {
-      "key": "amazonus|b09xsdmt4f|$248.00",
-      "ts": 1779861338100
-    },
-    {
-      "key": "amazonus|b0ddv3frhr|$248.00",
-      "ts": 1779861344131
-    },
-    {
-      "key": "amazonus|b0cb6b2jwg|$139.98",
-      "ts": 1779861350404
-    },
-    {
       "key": "amazonus|b0cn8qls4k|$357.99",
       "ts": 1779883878552
     },
@@ -555,6 +523,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/19588353-msebent-apple-mfi-certified-wallet-tracker-card-w-wireless-charging-7-59-free-shipping-w-prime-or-on-35|$7.59",
       "ts": 1780441947763
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19589496-3-33-purolator-tl14006-purolatortech-spin-on-oil-filter-at-amazon|$3.33",
+      "ts": 1780467667255
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19589484-16-oz-silver-buffalo-sanrio-hello-kitty-halloween-glass-tumbler-w-bamboo-lid-and-glass-straw-3-77-free-shipping-w-prime-or-on-orders-over-35|$3.77",
+      "ts": 1780467672328
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19589430-hallmark-paper-wonder-big-pop-up-christmas-card-santa-s-workshop-4-83-free-shipping-w-prime-or-on-orders-over-35|$4.83",
+      "ts": 1780467677375
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19589463-3-pack-16-oz-mrs-meyer-s-clean-day-multi-surface-everyday-cleaner-fall-leaves-8-83-w-s-s-free-shipping-w-prime-or-on-orders-over-35|$8.83",
+      "ts": 1780467682415
     }
   ]
 }
