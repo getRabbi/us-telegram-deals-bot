@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0cn8qls4k|$357.99",
-      "ts": 1779883878552
-    },
-    {
-      "key": "target|83377785|$9.00",
-      "ts": 1779883883673
-    },
-    {
-      "key": "target|79394260|$7.19",
-      "ts": 1779883888945
-    },
-    {
-      "key": "target|95023570|$15.00",
-      "ts": 1779883894241
-    },
-    {
-      "key": "target|94740943|$5.29",
-      "ts": 1779883900075
-    },
-    {
-      "key": "amazonus|b0fvf6x8cr|$56.52",
-      "ts": 1779883906395
-    },
-    {
-      "key": "amazonus|b0fnr66213|$67.99",
-      "ts": 1779883912488
-    },
-    {
-      "key": "amazonus|b0f96n2bp8|$349.00",
-      "ts": 1779883918235
-    },
-    {
       "key": "amazonus|b0bvb3jtxw|$227.95",
       "ts": 1779923032309
     },
@@ -539,6 +507,30 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/19589463-3-pack-16-oz-mrs-meyer-s-clean-day-multi-surface-everyday-cleaner-fall-leaves-8-83-w-s-s-free-shipping-w-prime-or-on-orders-over-35|$8.83",
       "ts": 1780467682415
+    },
+    {
+      "key": "target|79394260|$7.19",
+      "ts": 1780491901438
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19590063-craftsman-v20-rp-20-volt-max-2-tool-brushless-power-tool-combo-kit-with-soft-case-2-batteries-included-and-charger-included-cmck211c2-99|$9",
+      "ts": 1780491906629
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19590117-bodywel-m16-electric-bike-1500w-48v-15-6ah-16-fat-tire-off-road-mountain-bike-380-free-shipping|$60",
+      "ts": 1780491912072
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19590123-sweet-n-low-zero-calorie-sweetener-packets-400-ct-6-08-fs-amazon-prime-or-35|$6.08",
+      "ts": 1780491917278
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19590090-costway-patio-double-chaise-lounge-recliners-w-canopy-shade-cushions-folding-side-trays-gray-272-free-shipping|$68",
+      "ts": 1780491922481
+    },
+    {
+      "key": "target|51139832|$6.99",
+      "ts": 1780491927814
     }
   ]
 }
