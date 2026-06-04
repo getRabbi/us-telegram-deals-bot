@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0cbrmgfnj|$224.10",
-      "ts": 1779971098180
-    },
-    {
-      "key": "target|79146715|$12.49",
-      "ts": 1779971103488
-    },
-    {
-      "key": "amazonus|b0g1b8bjkz|$479.99",
-      "ts": 1779971110252
-    },
-    {
-      "key": "amazonus|b0c9tgtd5h|$275.99",
-      "ts": 1779971116121
-    },
-    {
-      "key": "amazonus|b0bbsn3nxd|$214.99",
-      "ts": 1779971122383
-    },
-    {
-      "key": "target|12953514|$8.89",
-      "ts": 1779971127725
-    },
-    {
-      "key": "target|81476036|$7.29",
-      "ts": 1779971134317
-    },
-    {
-      "key": "target|95117964|$6.19",
-      "ts": 1779971139671
-    },
-    {
       "key": "amazonus|b0dzx42jrz|$85.49",
       "ts": 1780008996544
     },
@@ -527,6 +495,34 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/19593492-5-smile-2-dvd-at-amazon|$5",
       "ts": 1780573340924
+    },
+    {
+      "key": "target|12953514|$8.89",
+      "ts": 1780613320539
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19595559-cascade-mountain-tech-ultralight-collapsible-cot-57-99-free-shipping-costco-com|$14",
+      "ts": 1780613325734
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19595562-kingcamp-hybrid-foam-topper-inflatable-sleeping-pad-79-99-free-shipping-costco-com|$20",
+      "ts": 1780613330740
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19595577-3-74-my-little-universe-steam-complete-edition-8-75|$3.74",
+      "ts": 1780613335737
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19595556-7-5-yoshenmo-100-speed-rechargeable-desk-fan-w-105-adjustable-tilt-digital-display-2-colors-12-97-free-shipping-w-prime-or-on-35|$12.97",
+      "ts": 1780613340857
+    },
+    {
+      "key": "target|93013893|$15.00",
+      "ts": 1780613345859
+    },
+    {
+      "key": "target|81476036|$7.29",
+      "ts": 1780613350843
     }
   ]
 }
