@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b07m5x7mh1|$251.98",
-      "ts": 1779947414730
-    },
-    {
-      "key": "target|91940750|$30.00",
-      "ts": 1779947420008
-    },
-    {
-      "key": "target|89243760|$5.39",
-      "ts": 1779947425803
-    },
-    {
-      "key": "target|79762902|$15.00",
-      "ts": 1779947431018
-    },
-    {
-      "key": "amazonus|b0f3d88462|$729.98",
-      "ts": 1779947437852
-    },
-    {
-      "key": "target|89459966|$24",
-      "ts": 1779947443099
-    },
-    {
-      "key": "amazonus|b0djnzmwsm|$475.99",
-      "ts": 1779947450068
-    },
-    {
-      "key": "amazonus|b06y3pgpr2|$404.18",
-      "ts": 1779947456109
-    },
-    {
       "key": "amazonus|b0cbrmgfnj|$224.10",
       "ts": 1779971098180
     },
@@ -523,6 +491,26 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/19591998-99-apple-airpods-4-wireless-earbud-headphones-w-usb-c-charging-case-at-amazon|$30",
       "ts": 1780528672921
+    },
+    {
+      "key": "target|79762902|$15.00",
+      "ts": 1780553707225
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19592811-2-37-oz-mccormick-grill-mates-chili-garlic-tri-tip-seasoning-1-98-w-s-s-free-shipping-w-prime-or-on-orders-over-35|$1.98",
+      "ts": 1780553712478
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19592841-188-99-kybolt-10-x-10-outdoor-pergola-w-retractable-canopy-at-amazon|$21",
+      "ts": 1780553717576
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19592886-6-count-1-4-oz-kind-soft-baked-squares-salted-caramel-almond-flour-4-92-w-s-s-free-shipping-w-prime-or-on-orders-over-35|$4.92",
+      "ts": 1780553722795
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19592817-6-pack-full-circle-bubble-up-dish-brush-white-7-15-free-shipping-w-prime-or-on-orders-over-35|$7.15",
+      "ts": 1780553727830
     }
   ]
 }
