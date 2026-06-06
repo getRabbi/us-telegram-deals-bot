@@ -1,18 +1,6 @@
 {
   "posted": [
     {
-      "key": "target|14783999|$5",
-      "ts": 1780179387846
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19577940-sns-ac-8-85-2-3-pack-3-2-oz-colgate-optic-white-advanced-hydrogen-peroxide-toothpaste-4-43-each-at-amazon|$4.43",
-      "ts": 1780179392842
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19577946-sns-ac-16-20-2-3-pack-5-oz-hello-antiplaque-and-whitening-fluoride-free-toothpaste-8-10-each-at-amazon|$8.10",
-      "ts": 1780179397843
-    },
-    {
       "key": "slickdeals|https://slickdeals.net/f/19577943-sns-ac-22-31-2-3-pack-4-oz-tom-s-of-maine-whiten-plus-deep-clean-whitening-toothpaste-peppermint-fluoride-11-16-each-at-amazon-3-72-each|$8.64",
       "ts": 1780179402877
     },
@@ -495,6 +483,22 @@
     {
       "key": "amazonus|b07gl7pnpq|$499.00",
       "ts": 1780742426080
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19601130-8-58-amazon-klein-tools-60581-work-gloves-knit-dipped-cut-resistant-ansi-a1-nitrile-coated-gloves-nylon-spandex-touchscreen-capable-large-2-pair-amazon|$8.58",
+      "ts": 1780784414196
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19601199-4-pairs-yqxcc-sports-compression-arm-sleeves-w-uv-50-sun-protection-4-colors-4-99-free-shipping-w-prime-or-on-35|$9.99",
+      "ts": 1780784419307
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19601115-catan-5-6-player-board-game-expansion-6th-edition-20-free-shipping-w-prime-or-on-orders-over-35|$19.99",
+      "ts": 1780784424411
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19601121-2-qt-zwilling-fresh-save-vacuum-glass-fridge-box-23-58-free-shipping-w-prime-or-on-orders-over-35|$23.58",
+      "ts": 1780784429552
     }
   ]
 }
