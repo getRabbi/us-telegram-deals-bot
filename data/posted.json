@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "target|94851228|$8.40",
-      "ts": 1780295109103
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19581306-8-dora-official-plush-doll-isa-3-41-free-shipping-w-prime-or-on-orders-over-35|$3.41",
-      "ts": 1780295114398
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19581321-ac-5-99-40-oz-renoj-insulated-mug-blue-at-amazon|$4.00",
-      "ts": 1780295119564
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19581252-5-teeturtle-cloudheads-teenage-mutant-ninja-turtles-leonardo-plush-3-83-free-shipping-w-prime-or-on-orders-over-35|$3.83",
-      "ts": 1780295124718
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19581261-4-pack-8-4-oz-red-bull-peach-edition-sugarfree-energy-drink-white-peach-6-39-w-s-s-free-shipping-w-prime-or-on-orders-over-35|$6.39",
-      "ts": 1780295129858
-    },
-    {
-      "key": "target|95033149|$15.00",
-      "ts": 1780295135204
-    },
-    {
-      "key": "target|85978609|$19",
-      "ts": 1780295140716
-    },
-    {
-      "key": "target|94651515|$28",
-      "ts": 1780295145896
-    },
-    {
       "key": "amazonus|b0fhl5l8sp|$397.99",
       "ts": 1780325224890
     },
@@ -515,6 +483,34 @@
     {
       "key": "target|80233201|$11.99",
       "ts": 1780899323134
+    },
+    {
+      "key": "target|85978609|$19",
+      "ts": 1780923218815
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19605483-10-piece-yuzi-plastic-measuring-cups-and-spoons-set-w-bonus-egg-separator-multicolor-4-99-free-shipping-w-prime-or-on-35|$4.99",
+      "ts": 1780923223996
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19605399-prime-19-99-anker-7-in-1-multi-port-usb-c-hub-at-amazon|$6",
+      "ts": 1780923229125
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19605408-prime-16-99-anker-wired-vertical-ergonomic-5-button-optical-mouse-black-at-amazon|$16.99",
+      "ts": 1780923234234
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19605450-sns-ac-22-61-32-pk-cottonelle-1-ply-toilet-paper-family-mega-rolls-at-amazon|$22.61",
+      "ts": 1780923239371
+    },
+    {
+      "key": "target|94651515|$28",
+      "ts": 1780923244480
+    },
+    {
+      "key": "target|94966464|$21",
+      "ts": 1780923249651
     }
   ]
 }
