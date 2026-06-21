@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "target|95257154|$5.00",
-      "ts": 1781436001881
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19627923-banana-republic-men-s-luxe-polo-14-99-green-blue-or-black-various-sizes-free-shipping-costco-com|$3",
-      "ts": 1781436006905
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19627944-kenneth-cole-men-s-short-sleeve-woven-shirt-17-99-green-gray-or-blue-various-sizes-free-shipping-costco-com|$4",
-      "ts": 1781436011916
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19627920-117-piece-lego-technic-john-deere-1470h-wheeled-harvester-7-99-free-shipping-w-prime-or-on-35|$7.99",
-      "ts": 1781436016919
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19627929-25-target-giftcard-1-select-rtic-outdoors-cooler-99-99|$25",
-      "ts": 1781436021913
-    },
-    {
-      "key": "target|14783999|$10",
-      "ts": 1781436027902
-    },
-    {
-      "key": "target|83372436|$15.00",
-      "ts": 1781436033019
-    },
-    {
-      "key": "target|80950057|$10.00",
-      "ts": 1781436038292
-    },
-    {
       "key": "target|80950057|$15",
       "ts": 1781476720288
     },
@@ -475,6 +443,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/19652460-woot-app-339-99-apple-watch-ultra-2nd-gen-grade-a-refurbished-at-woot|$40",
       "ts": 1782022945830
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19653180-ninja-air-fryer-pro-xl-6-in-1-with-6-5-qt-capacity-nonstick-basket-crisper-plate-120-fs-or-pu-earn-20-25-kohls-cash|$5",
+      "ts": 1782041830901
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19653174-94-79-fs-kohls-gourmia-french-door-digital-air-fryer-oven-get-10-kohls-cash-too|$10",
+      "ts": 1782041836098
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19653087-5-59-1-piece-lego-classic-baseplates-blue-baseplate-11025-2022-at-amazon|$5.59",
+      "ts": 1782041841256
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19653165-6-99-149-piece-lego-creator-3-in-1-red-dragon-31145-2024-at-amazon|$6.99",
+      "ts": 1782041846402
     }
   ]
 }
