@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "target|85987446|$10",
-      "ts": 1781565147631
-    },
-    {
-      "key": "target|89523956|$11",
-      "ts": 1781565152820
-    },
-    {
-      "key": "target|92828730|$25",
-      "ts": 1781565158349
-    },
-    {
-      "key": "target|92118401|$15.00",
-      "ts": 1781565163513
-    },
-    {
       "key": "target|52297200|$2",
       "ts": 1781592592224
     },
@@ -483,6 +467,22 @@
     {
       "key": "target|93286404|$7.20",
       "ts": 1782169128629
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19662390-msi-crosshair-18hx-laptop-18-qhd-240hz-ips-core-ultra-9-275hx-rtx-5070-32gb-ddr5-1tb-gen4-ssd-tb4-win11h-1500|$14.99",
+      "ts": 1782192886941
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19662432-ktc-h27d9-27-qhd-1440p-ips-gaming-monitor-up-to-120hz|$18",
+      "ts": 1782192892216
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19662411-7-92-12-pack-22-oz-arizona-green-tea-big-can-at-amazon|$7.52",
+      "ts": 1782192897334
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19662444-hot-wheels-unleashed-2-turbocharged-xbox-series-x-7-99-free-shipping-w-prime-or-on-35|$7.99",
+      "ts": 1782192902325
     }
   ]
 }
