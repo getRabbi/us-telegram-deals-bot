@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "target|94966030|$28",
-      "ts": 1781763392368
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19642650-10-count-8-oz-betty-crocker-disney-moana-fruit-flavored-snacks-1-90-w-s-s-free-shipping-w-prime-or-on-orders-over-35|$1.90",
-      "ts": 1781763397353
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19642632-8-oz-goldfish-seasoned-pretzels-honey-mustard-1-89-w-s-s-free-shipping-w-prime-or-on-orders-over-35|$1.89",
-      "ts": 1781763402348
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19642629-up-to-91-off-gap-levi-s-deals-at-woot|",
-      "ts": 1781763407343
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19642665-sns-ac-10-37-2-2-pack-3-4-oz-harry-s-post-shave-balm-for-men-with-aloe-5-18-each-at-amazon|$5.18",
-      "ts": 1781763412331
-    },
-    {
-      "key": "target|92115717|$18",
-      "ts": 1781763417465
-    },
-    {
-      "key": "target|92908773|$15.00",
-      "ts": 1781763422473
-    },
-    {
-      "key": "target|94332535|$10",
-      "ts": 1781763427729
-    },
-    {
       "key": "target|91466170|$8.00",
       "ts": 1781784984988
     },
@@ -515,6 +483,38 @@
     {
       "key": "target|95137735|$40.00",
       "ts": 1782366341216
+    },
+    {
+      "key": "amazonus|b0flm8kvgk|$43.98",
+      "ts": 1782387328507
+    },
+    {
+      "key": "target|95179691|$15.00",
+      "ts": 1782387333859
+    },
+    {
+      "key": "amazonus|b0gd1wyssw|$99.75",
+      "ts": 1782387340375
+    },
+    {
+      "key": "amazonus|b0dvhb1zlx|$95.00",
+      "ts": 1782387346711
+    },
+    {
+      "key": "amazonus|b0bl8wsch3|$54.99",
+      "ts": 1782387353161
+    },
+    {
+      "key": "target|95175961|$15.00",
+      "ts": 1782387358439
+    },
+    {
+      "key": "target|95162398|$15.00",
+      "ts": 1782387363840
+    },
+    {
+      "key": "target|95161225|$15.00",
+      "ts": 1782387369206
     }
   ]
 }
