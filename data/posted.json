@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "target|95293982|$15.00",
-      "ts": 1781851022450
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19647027-6-6-oz-goldfish-flavor-blasted-cheddar-jack-d-crackers-1-89-w-s-s-free-shipping-w-prime-or-on-orders-over-35|$1.89",
-      "ts": 1781851027544
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19647078-robotime-3d-wooden-puzzle-wooden-ship-model-kits-for-teens-adults-to-build-home-desk-decoration-gifts-32-free-s-h-at-aliexpress|$3",
-      "ts": 1781851032600
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19647069-seeedstudio-e-ink-7-3-6-color-epaper-display-esp32-s3-3-month-battery-95-54-free-shipping-at-aliexpress|$18",
-      "ts": 1781851037680
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19647009-mighty-morphin-power-rangers-re-ignition-ranger-mask-yellow-ranger-6-24-free-shipping-w-prime-or-on-orders-over-35|$6.24",
-      "ts": 1781851042726
-    },
-    {
-      "key": "target|94685845|$15.00",
-      "ts": 1781851047931
-    },
-    {
-      "key": "target|94335483|$18",
-      "ts": 1781851053330
-    },
-    {
-      "key": "target|14767254|$15.99",
-      "ts": 1781851058674
-    },
-    {
       "key": "target|94834466|$17",
       "ts": 1781872775431
     },
@@ -527,6 +495,22 @@
     {
       "key": "target|95094612|$15.00",
       "ts": 1782453132512
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19688790-prime-sns-4-96-20-oz-baby-dove-sensitive-skin-care-baby-wash-at-amazon|$4.96",
+      "ts": 1782473769718
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19688835-2-count-koonie-xl-reusable-hot-cold-back-ice-pack-wraps-w-extension-strap-10-49-5-25-each-free-shipping-w-prime-or-on-35|$5.25",
+      "ts": 1782473774729
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19688811-prime-sns-5-12-28-oz-dove-men-care-shampoo-charcoal-clay-at-amazon|$5.12",
+      "ts": 1782473779750
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19688853-prime-sns-from-5-63-26-oz-dove-men-care-body-wash-various-at-amazon|$5.63",
+      "ts": 1782473784728
     }
   ]
 }
