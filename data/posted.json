@@ -1,26 +1,6 @@
 {
   "posted": [
     {
-      "key": "target|95006343|$10",
-      "ts": 1781995104843
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19651683-weber-3-burner-propane-gas-flat-top-griddle-28-in-black-399-free-pickup-or-9-99-shipping-tractor-supply-company|$9.99",
-      "ts": 1781995109845
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19651782-pny-geforce-rtx-5080-argb-overclocked-triple-fan-1169-99|$116",
-      "ts": 1781995114846
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19651704-michael-kors-hyde-small-leather-satchel-56-88|$56.88",
-      "ts": 1781995119836
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19651707-beautybrands-the-17-98-annual-liter-sale|$5",
-      "ts": 1781995124838
-    },
-    {
       "key": "slickdeals|https://slickdeals.net/f/19652454-woot-app-519-99-powercolor-amd-radeon-rx-9070-reaper-triple-fan-16gb-gddr6-graphics-card-at-woot|$40",
       "ts": 1782022930866
     },
@@ -535,6 +515,22 @@
     {
       "key": "target|17304429|$14",
       "ts": 1782599049290
+    },
+    {
+      "key": "amazonus|b0fv98gslb|$59.98",
+      "ts": 1782626040523
+    },
+    {
+      "key": "amazonus|b0fm5kf34g|$179.95",
+      "ts": 1782626046815
+    },
+    {
+      "key": "amazonus|b0gwfqkg5j|$199.99",
+      "ts": 1782626052639
+    },
+    {
+      "key": "amazonus|b0db7zw7j4|$213.73",
+      "ts": 1782626058577
     }
   ]
 }
