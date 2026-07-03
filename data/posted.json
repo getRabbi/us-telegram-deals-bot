@@ -1,30 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b07t8k4sx4|$83.99",
-      "ts": 1782453095954
-    },
-    {
-      "key": "target|95085839|$45.00",
-      "ts": 1782453109934
-    },
-    {
-      "key": "amazonus|b00trlvkw0|$39.00",
-      "ts": 1782453115167
-    },
-    {
-      "key": "amazonus|b0gqb1lptr|$399.99",
-      "ts": 1782453121311
-    },
-    {
-      "key": "amazonus|b07h8wtfhw|$54.95",
-      "ts": 1782453127460
-    },
-    {
-      "key": "target|95094612|$15.00",
-      "ts": 1782453132512
-    },
-    {
       "key": "slickdeals|https://slickdeals.net/f/19688790-prime-sns-4-96-20-oz-baby-dove-sensitive-skin-care-baby-wash-at-amazon|$4.96",
       "ts": 1782473769718
     },
@@ -563,6 +539,38 @@
     {
       "key": "amazonus|b0h36p76yn|$499.99",
       "ts": 1783055822786
+    },
+    {
+      "key": "amazonus|b0014giijo|$228.99",
+      "ts": 1783078080998
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19717029-3-83-bosch-itsq2205-5-pack-2-in-square-2-impact-tough-screwdriving-power-bits-at-amazon|$3.83",
+      "ts": 1783078086098
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19717011-ac-11-49-3-12-pack-12oz-7up-tropical-soda-cans-3-83-each-at-amazon|$3.83",
+      "ts": 1783078091161
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19717014-8-80-hanes-women-s-moves-7-8-soft-leggings-w-pocket-at-amazon|$8.80",
+      "ts": 1783078096332
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19717017-10-hanes-women-s-sports-bra-at-amazon|$10",
+      "ts": 1783078101379
+    },
+    {
+      "key": "amazonus|b0cpy3nkwb|$278.99",
+      "ts": 1783078107507
+    },
+    {
+      "key": "amazonus|b004f9l4ei|$405.95",
+      "ts": 1783078113875
+    },
+    {
+      "key": "amazonus|b0db5k3jf4|$314.46",
+      "ts": 1783078119889
     }
   ]
 }
