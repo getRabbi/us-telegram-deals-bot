@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0b2vtz432|$299.00",
-      "ts": 1782885926624
-    },
-    {
-      "key": "target|94369873|$6.00",
-      "ts": 1782885931970
-    },
-    {
-      "key": "amazonus|b0dxn3qks8|$697.99",
-      "ts": 1782885938600
-    },
-    {
-      "key": "amazonus|b0g44nhj5m|$64.99",
-      "ts": 1782885945298
-    },
-    {
-      "key": "amazonus|b0fdkr4rvp|$199.00",
-      "ts": 1782885951094
-    },
-    {
-      "key": "target|81476036|$7.89",
-      "ts": 1782885956571
-    },
-    {
-      "key": "target|13347732|$6.89",
-      "ts": 1782885961826
-    },
-    {
-      "key": "target|50694768|$6.49",
-      "ts": 1782885967086
-    },
-    {
       "key": "amazonus|b0fv96gyjg|$59.98",
       "ts": 1782906757472
     },
@@ -559,6 +527,34 @@
     {
       "key": "amazonus|b0dhlql58y|$255.99",
       "ts": 1783486133084
+    },
+    {
+      "key": "target|86036991|$39.99",
+      "ts": 1783507951247
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19735350-qvc-new-customers-2-75-qt-le-creuset-cast-iron-signature-braiser-w-cast-ironlid-various-colors-169-98-8-22-s-h|$8.22",
+      "ts": 1783507956319
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19735371-35-oz-planters-unsalted-dry-roasted-peanuts-5-69-w-s-s-free-shipping-w-prime-or-on-35|$5.69",
+      "ts": 1783507961355
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19735404-private-dancer-8-26-free-shipping-w-prime-or-on-35|$8.26",
+      "ts": 1783507966386
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19735392-1-gallon-zep-high-traffic-carpet-cleaner-9-48-free-shipping-w-prime-or-on-35|$9.48",
+      "ts": 1783507971420
+    },
+    {
+      "key": "target|95242666|$16.19",
+      "ts": 1783507977481
+    },
+    {
+      "key": "target|95279869|$14.99",
+      "ts": 1783507982562
     }
   ]
 }
