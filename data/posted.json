@@ -1,30 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0bvb3jtxw|$227.94",
-      "ts": 1782991868717
-    },
-    {
-      "key": "target|93013893|$15.00",
-      "ts": 1782991873981
-    },
-    {
-      "key": "amazonus|b09nstl95c|$359.96",
-      "ts": 1782991880487
-    },
-    {
-      "key": "amazonus|b00004sgfw|$299.95",
-      "ts": 1782991886359
-    },
-    {
-      "key": "amazonus|b097p77b69|$299.94",
-      "ts": 1782991892563
-    },
-    {
-      "key": "target|15013952|$4.99",
-      "ts": 1782991897926
-    },
-    {
       "key": "amazonus|b08n6c4gpp|$446.46",
       "ts": 1783031343476
     },
@@ -543,6 +519,38 @@
     {
       "key": "amazonus|b085xvfq62|$250.19",
       "ts": 1783575547678
+    },
+    {
+      "key": "amazonus|b097p77b69|$299.94",
+      "ts": 1783597587114
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19739997-smith-optics-men-s-guides-sunglasses-matte-black-chromapop-polarchromic-ignitor-79-99-free-s-h-w-prime-at-woot|$6",
+      "ts": 1783597592232
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19740024-crayola-glow-light-ups-reusable-coloring-toy-mummy-3-49-or-less-w-coupon-ymmv-free-shipping-w-prime-or-on-35|$2.96",
+      "ts": 1783597597320
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19740009-18-piece-blriet-essential-oil-aromatherapy-shower-steamers-5-99-free-shipping-w-prime-or-on-35|$5.99",
+      "ts": 1783597602389
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19739991-sns-ac-2-38-4-oz-differin-acne-face-wash-daily-deep-cleaner-w-5-benzoyl-peroxide-at-amazon|$2.38",
+      "ts": 1783597607476
+    },
+    {
+      "key": "amazonus|b0bqch2cpn|$224.99",
+      "ts": 1783597614102
+    },
+    {
+      "key": "amazonus|b01dzxe9nc|$229.99",
+      "ts": 1783597620167
+    },
+    {
+      "key": "amazonus|b0bjp7dvch|$269.99",
+      "ts": 1783597626237
     }
   ]
 }
