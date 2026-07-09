@@ -1,70 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0crhh4yrv|$49.49",
-      "ts": 1782946178611
-    },
-    {
-      "key": "target|94966030|$75.00",
-      "ts": 1782946183811
-    },
-    {
-      "key": "target|89459966|$62.50",
-      "ts": 1782946188985
-    },
-    {
-      "key": "target|95032702|$25.00",
-      "ts": 1782946194416
-    },
-    {
-      "key": "amazonus|b0cdqmqqs2|$854.99",
-      "ts": 1782946200428
-    },
-    {
-      "key": "amazonus|b0gmkp1wdm|$399.99",
-      "ts": 1782946206233
-    },
-    {
-      "key": "amazonus|b09zbf3856|$299.00",
-      "ts": 1782946212866
-    },
-    {
-      "key": "target|94935670|$9.29",
-      "ts": 1782946218060
-    },
-    {
-      "key": "amazonus|b0ccz1sq8g|$209.00",
-      "ts": 1782969760944
-    },
-    {
-      "key": "target|94935358|$6.49",
-      "ts": 1782969766218
-    },
-    {
-      "key": "amazonus|b08ywhn79n|$209.94",
-      "ts": 1782969772576
-    },
-    {
-      "key": "amazonus|b0ccz1hq39|$269.00",
-      "ts": 1782969778704
-    },
-    {
-      "key": "amazonus|b07gl7pnpq|$499.00",
-      "ts": 1782969785176
-    },
-    {
-      "key": "target|81476036|$7.49",
-      "ts": 1782969790940
-    },
-    {
-      "key": "target|15013952|$4.69",
-      "ts": 1782969796082
-    },
-    {
-      "key": "target|94723673|$1.69",
-      "ts": 1782969801807
-    },
-    {
       "key": "amazonus|b0bvb3jtxw|$227.94",
       "ts": 1782991868717
     },
@@ -575,6 +511,38 @@
     {
       "key": "amazonus|b086n23qbd|$422.97",
       "ts": 1783549717595
+    },
+    {
+      "key": "amazonus|b07gl7pnpq|$499.00",
+      "ts": 1783575509694
+    },
+    {
+      "key": "target|95032702|$13.00",
+      "ts": 1783575514824
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19739466-sweet-gestures-by-relatable-50-ways-to-treat-your-partner-game-3-61-free-shipping-w-prime-or-on-orders-over-35|$3.61",
+      "ts": 1783575519866
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19739397-50-oz-all-free-clear-liquid-laundry-detergent-for-sensitive-skin-unscented-7-90-w-s-s-free-shipping-w-prime-or-on-orders-over-35|$7.90",
+      "ts": 1783575524900
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19739424-sns-ac-3-69-50-oz-softsoap-antibacterial-liquid-hand-soap-refill-crisp-clean-at-amazon|$1.98",
+      "ts": 1783575529913
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19739373-barbie-dreamhouse-adventures-nintendo-switch-17-free-shipping-w-prime-or-on-orders-over-35|$16.99",
+      "ts": 1783575534923
+    },
+    {
+      "key": "amazonus|b0cs6q5dj3|$489.99",
+      "ts": 1783575541120
+    },
+    {
+      "key": "amazonus|b085xvfq62|$250.19",
+      "ts": 1783575547678
     }
   ]
 }
