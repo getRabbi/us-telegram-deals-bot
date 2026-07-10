@@ -571,6 +571,38 @@
     {
       "key": "target|https://www.target.com/c/deals/-/n-4xw74|",
       "ts": 1783637749086
+    },
+    {
+      "key": "amazonus|b09nstl95c|$359.96",
+      "ts": 1783661131096
+    },
+    {
+      "key": "target|89381586|$11.20",
+      "ts": 1783661136235
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19743567-5-19-5-pk-3m-claw-drywall-picture-hanger-w-temporary-spot-marker-up-to-15-lbs-at-amazon|$5.19",
+      "ts": 1783661141238
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19743633-1-67-oz-color-wow-xtra-large-bombshell-volumizer-5-70-w-s-s-free-shipping-w-prime-or-on-orders-over-35|$5.70",
+      "ts": 1783661146228
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19743546-5-52-bosch-custom-case-system-large-storage-organizer-for-impact-tough-driver-drill-bits-ccscl-at-amazon|$5.52",
+      "ts": 1783661151316
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19743576-2-pack-vapor-blasters-laser-tag-style-battle-toys-5-81-free-shipping-w-prime-or-on-orders-over-35|$5.81",
+      "ts": 1783661156319
+    },
+    {
+      "key": "amazonus|b0fljw149q|$289.99",
+      "ts": 1783661162428
+    },
+    {
+      "key": "amazonus|b0bht3clpw|$241.48",
+      "ts": 1783661168803
     }
   ]
 }
