@@ -1,42 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0bvb3jtxw|$227.94",
-      "ts": 1783637705973
-    },
-    {
-      "key": "walmart|https://www.walmart.com/cp/deals/5438|",
-      "ts": 1783637710970
-    },
-    {
-      "key": "bestbuy|https://www.bestbuy.com/site/electronics/deals/abcat0500000.c|",
-      "ts": 1783637716166
-    },
-    {
-      "key": "target|89381586|$15.00",
-      "ts": 1783637721418
-    },
-    {
-      "key": "homedepot|https://www.homedepot.com/specialbuy/specialbuyoftheday|",
-      "ts": 1783637726575
-    },
-    {
-      "key": "amazonus|b0cwlhkqnt|$239.99",
-      "ts": 1783637731766
-    },
-    {
-      "key": "amazonus|b07d528w98|$233.99",
-      "ts": 1783637737957
-    },
-    {
-      "key": "amazonus|b0bz7d1bqd|$224.99",
-      "ts": 1783637744108
-    },
-    {
-      "key": "target|https://www.target.com/c/deals/-/n-4xw74|",
-      "ts": 1783637749086
-    },
-    {
       "key": "amazonus|b09nstl95c|$359.96",
       "ts": 1783661131096
     },
@@ -623,6 +587,38 @@
     {
       "key": "target|95015750|$16.99",
       "ts": 1784240657422
+    },
+    {
+      "key": "amazonus|b0fwk41wf2|$499.99",
+      "ts": 1784263409609
+    },
+    {
+      "key": "target|94651515|$427.99",
+      "ts": 1784263414906
+    },
+    {
+      "key": "amazonus|b0h2w1gy8d|$189.99",
+      "ts": 1784263420954
+    },
+    {
+      "key": "amazonus|b0fb59fn5m|$219.99",
+      "ts": 1784263427366
+    },
+    {
+      "key": "amazonus|b0dwx69jvg|$249.98",
+      "ts": 1784263433238
+    },
+    {
+      "key": "target|94966472|$299.99",
+      "ts": 1784263438508
+    },
+    {
+      "key": "target|85978609|$199.99",
+      "ts": 1784263443793
+    },
+    {
+      "key": "target|95279869|$16.49",
+      "ts": 1784263449139
     }
   ]
 }
