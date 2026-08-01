@@ -1,26 +1,6 @@
 {
   "posted": [
     {
-      "key": "target|50568401|$30",
-      "ts": 1784974790952
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19807512-2-45-post-it-durable-tabs-1-in-pink-green-orange-66-tabs-on-the-go-dispenser-at-walmart-com|$2.45",
-      "ts": 1784974796180
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19807389-new-3-05-dr-brown-s-100-silicone-baby-finger-toothbrush-and-toothpaste-set-at-amazon|$3.05",
-      "ts": 1784974801393
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19807479-new-4-99-steelseries-qck-medium-gaming-mousepad-black-320-mm-x-270-mm-at-amazon|$4.99",
-      "ts": 1784974806592
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19807383-4-90-12-count-bic-gelocity-quick-dry-blue-gel-pens-medium-point-0-7-mm-blue-10-back-w-prime-visa-card-at-amazon|$4.90",
-      "ts": 1784974811829
-    },
-    {
       "key": "amazonus|b0g2kzdxdq|$79.99",
       "ts": 1785018032259
     },
@@ -499,6 +479,22 @@
     {
       "key": "amazonus|b0dxkrffgm|$59.39",
       "ts": 1785560056206
+    },
+    {
+      "key": "amazonus|b0018okxrw|$37.72",
+      "ts": 1785580329647
+    },
+    {
+      "key": "amazonus|b0dx1dqkmd|$799.99",
+      "ts": 1785580335429
+    },
+    {
+      "key": "amazonus|b0gbvnmjxv|$159.99",
+      "ts": 1785580341944
+    },
+    {
+      "key": "amazonus|b0dms9p8p7|$91.99",
+      "ts": 1785580348511
     }
   ]
 }
