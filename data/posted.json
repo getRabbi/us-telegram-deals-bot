@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "target|54146831|$2.40",
-      "ts": 1785190906747
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19815189-12-pc-beakey-makeup-brush-set-w-10-face-eye-brushes-2-blending-sponges-4-49-free-shipping-w-prime-or-on-35|$7.49",
-      "ts": 1785190911954
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19815213-amazon-grocery-hazelnut-spread-with-cocoa-26-5-oz-4-93-or-less-w-s-s|$4.93",
-      "ts": 1785190917123
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19815195-2-count-5-firsting-4-in-1-multi-charging-cables-usb-a-to-usb-c-lightning-micro-usb-5-49-2-75-each-free-shipping-w-prime-or-on-35|$2.75",
-      "ts": 1785190922271
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19815249-9-99-a-charlie-brown-christmas-peanuts-collection-it-s-christmastime-again-charlie-brown-blu-ray-at-amazon|$9.99",
-      "ts": 1785190927484
-    },
-    {
-      "key": "target|17296921|$4.99",
-      "ts": 1785190932801
-    },
-    {
-      "key": "target|79176287|$8.99",
-      "ts": 1785190938057
-    },
-    {
-      "key": "target|95124745|$3",
-      "ts": 1785190943485
-    },
-    {
       "key": "amazonus|b09h8cwfnk|$279.99",
       "ts": 1785213948770
     },
@@ -543,6 +511,34 @@
     {
       "key": "target|89379100|$15.00",
       "ts": 1785796085321
+    },
+    {
+      "key": "amazonus|b0c2w1klss|$99.95",
+      "ts": 1785818785945
+    },
+    {
+      "key": "target|87334503|$11.24",
+      "ts": 1785818791202
+    },
+    {
+      "key": "amazonus|b0c2wd567r|$99.95",
+      "ts": 1785818796368
+    },
+    {
+      "key": "amazonus|b0bzk2z2tc|$99.95",
+      "ts": 1785818802787
+    },
+    {
+      "key": "amazonus|b0g5y2q7sk|$159.98",
+      "ts": 1785818809219
+    },
+    {
+      "key": "target|82102549|$8.99",
+      "ts": 1785818815794
+    },
+    {
+      "key": "target|95226723|$2.69",
+      "ts": 1785818821027
     }
   ]
 }
