@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b00hcz0x9y|$86.99",
-      "ts": 1785560036774
-    },
-    {
-      "key": "amazonus|b0gcfc347x|$69.99",
-      "ts": 1785560043423
-    },
-    {
-      "key": "amazonus|b0cwk6yq7v|$150.00",
-      "ts": 1785560049851
-    },
-    {
-      "key": "amazonus|b0dxkrffgm|$59.39",
-      "ts": 1785560056206
-    },
-    {
       "key": "amazonus|b0018okxrw|$37.72",
       "ts": 1785580329647
     },
@@ -495,6 +479,22 @@
     {
       "key": "amazonus|b0dxkrffgm|$56.97",
       "ts": 1786158922190
+    },
+    {
+      "key": "amazonus|b0c3hcd34r|$39.98",
+      "ts": 1786181519253
+    },
+    {
+      "key": "amazonus|b0cqxmxjc5|$39.98",
+      "ts": 1786181525553
+    },
+    {
+      "key": "amazonus|b0c3kwt5v6|$44.99",
+      "ts": 1786181531979
+    },
+    {
+      "key": "amazonus|b0f4884ln3|$44.99",
+      "ts": 1786181537734
     }
   ]
 }
