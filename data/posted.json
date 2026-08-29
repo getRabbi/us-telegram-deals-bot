@@ -1,42 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b01lwa8j37|$486.49",
-      "ts": 1787348876172
-    },
-    {
-      "key": "target|14331505|$4.00",
-      "ts": 1787348881453
-    },
-    {
-      "key": "amazonus|b09zbf3856|$319.00",
-      "ts": 1787348887913
-    },
-    {
-      "key": "amazonus|b099ksjn8p|$279.99",
-      "ts": 1787348893591
-    },
-    {
-      "key": "amazonus|b0dlb5h972|$329.99",
-      "ts": 1787348899877
-    },
-    {
-      "key": "amazonus|b00pxvu3gm|$237.99",
-      "ts": 1787366497783
-    },
-    {
-      "key": "amazonus|b0b3j7135p|$351.47",
-      "ts": 1787366504063
-    },
-    {
-      "key": "amazonus|b0fn8b5kv3|$265.96",
-      "ts": 1787366509918
-    },
-    {
-      "key": "amazonus|b00ji6ncck|$343.19",
-      "ts": 1787366516194
-    },
-    {
       "key": "amazonus|b0hbfbhd9t|$130.00",
       "ts": 1787390025829
     },
@@ -555,6 +519,38 @@
     {
       "key": "amazonus|b0fxby6bvl|$79.99",
       "ts": 1787949416972
+    },
+    {
+      "key": "amazonus|b0gp9brb2t|$49.20",
+      "ts": 1787973593928
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19940259-mandalorian-and-grogu-popcorn-bucket-in-store-clearance-7-50-walmart-ymmv|$7.50",
+      "ts": 1787973598915
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19940103-11-97-get-3-50-walmart-cash-all-baby-liquid-laundry-detergent-hypoallergenic-gentle-on-sensitive-skin-73-oz-58-loads|$3.50",
+      "ts": 1787973603904
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19940190-refurbished-amazon-fire-tv-stick-hd-w-alexa-voice-remote-15-99-free-shipping-w-prime-or-6-fee-per-order|$6",
+      "ts": 1787973608887
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19940223-p-c-richard-son-mr-bar-b-q-3-piece-sure-grip-tool-set-ymmv-9-97|$4.99",
+      "ts": 1787973613895
+    },
+    {
+      "key": "amazonus|b0h2df5tj1|$399.99",
+      "ts": 1787973620162
+    },
+    {
+      "key": "amazonus|b0dlb271j3|$219.98",
+      "ts": 1787973626294
+    },
+    {
+      "key": "amazonus|b0gsgps5nw|$74.97",
+      "ts": 1787973631982
     }
   ]
 }
