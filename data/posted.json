@@ -551,6 +551,42 @@
     {
       "key": "amazonus|b0gsgps5nw|$74.97",
       "ts": 1787973631982
+    },
+    {
+      "key": "amazonus|b08f6gpqq7|$119.99",
+      "ts": 1787990942196
+    },
+    {
+      "key": "target|88831810|$4.89",
+      "ts": 1787990947554
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19940979-ac-17-53-18-oz-gearwrench-dead-blow-hammer-at-amazon|$2.72",
+      "ts": 1787990952571
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19941009-new-5-20-speedo-unisex-swim-nose-clip-liquid-comfort-at-amazon|$5.20",
+      "ts": 1787990957584
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19940988-6-52-24-ct-paper-mate-inkjoy-300rt-retractable-ballpoint-pens-black-at-amazon|$6.52",
+      "ts": 1787990962600
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19941006-new-6-89-msr-alpine-dish-brush-scraper-at-amazon|$6.89",
+      "ts": 1787990967618
+    },
+    {
+      "key": "amazonus|b08f6dwkqp|$119.99",
+      "ts": 1787990973299
+    },
+    {
+      "key": "amazonus|b0glp9wrbp|$69.99",
+      "ts": 1787990979150
+    },
+    {
+      "key": "amazonus|b0d2jgyx3f|$239.00",
+      "ts": 1787990985203
     }
   ]
 }
