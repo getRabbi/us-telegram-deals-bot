@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0f7rz1ms9|$69.99",
-      "ts": 1787453409041
-    },
-    {
-      "key": "amazonus|b08tt4yhg1|$179.99",
-      "ts": 1787453415498
-    },
-    {
-      "key": "amazonus|b0cg6nr413|$186.97",
-      "ts": 1787453421925
-    },
-    {
-      "key": "amazonus|b0dpgbskr2|$679.99",
-      "ts": 1787453427897
-    },
-    {
       "key": "amazonus|b08nl88zb2|$229.95",
       "ts": 1787476467731
     },
@@ -611,6 +595,38 @@
     {
       "key": "amazonus|b0csz7wbyw|$89.99",
       "ts": 1788046312844
+    },
+    {
+      "key": "amazonus|b0dc156y5x|$43.99",
+      "ts": 1788073351654
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19943805-ac-3-23-24-sheets-hshfamily-kids-christmas-stickers-480-stickers-at-amazon|$3.23",
+      "ts": 1788073356753
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19943781-ac-13-49-3-piece-anchor-hocking-glass-measuring-cups-set-1-cup-2-cup-4-cup-at-amazon|$1.50",
+      "ts": 1788073361784
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19943844-40-pack-0-8-oz-welch-s-mixed-fruit-snacks-4-67-w-s-s-free-shipping-w-prime-or-on-35|$4.67",
+      "ts": 1788073366789
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19943853-6-99-2-pack-scosche-universal-suction-cup-phone-mount-at-amazon|$6.99",
+      "ts": 1788073371840
+    },
+    {
+      "key": "amazonus|b0bqrf9ls1|$127.20",
+      "ts": 1788073377433
+    },
+    {
+      "key": "amazonus|b0g2np22vp|$95.20",
+      "ts": 1788073383517
+    },
+    {
+      "key": "amazonus|b0dqdqvtt3|$64.99",
+      "ts": 1788073389333
     }
   ]
 }
