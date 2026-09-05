@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0gp9brb2t|$49.20",
-      "ts": 1787973593928
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19940259-mandalorian-and-grogu-popcorn-bucket-in-store-clearance-7-50-walmart-ymmv|$7.50",
-      "ts": 1787973598915
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19940103-11-97-get-3-50-walmart-cash-all-baby-liquid-laundry-detergent-hypoallergenic-gentle-on-sensitive-skin-73-oz-58-loads|$3.50",
-      "ts": 1787973603904
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19940190-refurbished-amazon-fire-tv-stick-hd-w-alexa-voice-remote-15-99-free-shipping-w-prime-or-6-fee-per-order|$6",
-      "ts": 1787973608887
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/19940223-p-c-richard-son-mr-bar-b-q-3-piece-sure-grip-tool-set-ymmv-9-97|$4.99",
-      "ts": 1787973613895
-    },
-    {
-      "key": "amazonus|b0h2df5tj1|$399.99",
-      "ts": 1787973620162
-    },
-    {
-      "key": "amazonus|b0dlb271j3|$219.98",
-      "ts": 1787973626294
-    },
-    {
-      "key": "amazonus|b0gsgps5nw|$74.97",
-      "ts": 1787973631982
-    },
-    {
       "key": "amazonus|b08f6gpqq7|$119.99",
       "ts": 1787990942196
     },
@@ -667,6 +635,22 @@
     {
       "key": "amazonus|b0brxj9wtd|$59.99",
       "ts": 1788563573142
+    },
+    {
+      "key": "amazonus|b0g84h5z99|$51.00",
+      "ts": 1788588316818
+    },
+    {
+      "key": "amazonus|b0by3s955s|$42.00",
+      "ts": 1788588322918
+    },
+    {
+      "key": "amazonus|b0h2ncq9fb|$249.99",
+      "ts": 1788588329115
+    },
+    {
+      "key": "amazonus|b0dy1z934f|$89.99",
+      "ts": 1788588335129
     }
   ]
 }
