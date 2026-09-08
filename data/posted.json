@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0h2z8qbn5|$54.99",
-      "ts": 1788223743889
-    },
-    {
-      "key": "target|82545755|$11.00",
-      "ts": 1788223749116
-    },
-    {
-      "key": "amazonus|b0dfk28lbb|$899.00",
-      "ts": 1788223754476
-    },
-    {
-      "key": "amazonus|b0f93f341y|$2,096.00",
-      "ts": 1788223760580
-    },
-    {
-      "key": "amazonus|b0d6r9nwbb|$69.97",
-      "ts": 1788223766942
-    },
-    {
-      "key": "target|91940750|$159.99",
-      "ts": 1788223772227
-    },
-    {
-      "key": "target|94892782|$10.29",
-      "ts": 1788223777435
-    },
-    {
-      "key": "target|12992469|$10.23",
-      "ts": 1788223782883
-    },
-    {
       "key": "amazonus|b0h2df5tj1|$349.99",
       "ts": 1788244348621
     },
@@ -599,6 +567,22 @@
     {
       "key": "amazonus|b0g2czddj5|$259.99",
       "ts": 1788824248823
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19985859-1-39-2-pack-5-inch-westcott-hard-handle-kids-scissors-blunt-assorted-colors-at-amazon|$1.39",
+      "ts": 1788848079344
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19985823-5-tier-cfmaster-tool-organizer-cart-with-power-outlet-46-99-free-shipping-w-prime|$6",
+      "ts": 1788848084549
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19985790-ac-27-68-4-42-ct-gain-flings-washing-detergent-pods-w-odor-defense-color-guard-6-92-each-at-amazon|$6.92",
+      "ts": 1788848089786
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/19985781-sns-ac-17-92-8-pack-10-count-nuun-daily-hydration-energy-electrolyte-tablets-berry-blast-at-amazon|$11.50",
+      "ts": 1788848094974
     }
   ]
 }
