@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0bk11bv64|$35.02",
-      "ts": 1788824229386
-    },
-    {
-      "key": "amazonus|b0cxyyf5hw|$75.00",
-      "ts": 1788824236143
-    },
-    {
-      "key": "amazonus|b018s68u40|$79.99",
-      "ts": 1788824242406
-    },
-    {
-      "key": "amazonus|b0g2czddj5|$259.99",
-      "ts": 1788824248823
-    },
-    {
       "key": "slickdeals|https://slickdeals.net/f/19985859-1-39-2-pack-5-inch-westcott-hard-handle-kids-scissors-blunt-assorted-colors-at-amazon|$1.39",
       "ts": 1788848079344
     },
@@ -351,6 +335,22 @@
     {
       "key": "amazonus|b0cglq1yb5|$49.99",
       "ts": 1789399512618
+    },
+    {
+      "key": "amazonus|b0fvfgl38h|$899.98",
+      "ts": 1789430371230
+    },
+    {
+      "key": "amazonus|b0f3xl19jw|$64.99",
+      "ts": 1789430377672
+    },
+    {
+      "key": "amazonus|b099wtn2tr|$64.99",
+      "ts": 1789430384063
+    },
+    {
+      "key": "amazonus|b0blsghrxb|$64.99",
+      "ts": 1789430390289
     }
   ]
 }
