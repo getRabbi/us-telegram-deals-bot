@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0cbrm6r3x|$219.99",
-      "ts": 1789306687039
-    },
-    {
-      "key": "amazonus|b0db5k3jf4|$314.46",
-      "ts": 1789306693644
-    },
-    {
-      "key": "amazonus|b07q8k4qts|$254.99",
-      "ts": 1789306699981
-    },
-    {
-      "key": "amazonus|b0d59f7qbf|$219.98",
-      "ts": 1789306706469
-    },
-    {
       "key": "amazonus|b0002kvqba|$209.00",
       "ts": 1789341585517
     },
@@ -383,6 +367,38 @@
     {
       "key": "amazonus|b0dhtjs3qk|$36.79",
       "ts": 1789910611933
+    },
+    {
+      "key": "amazonus|b0dlxshsf4|$349.99",
+      "ts": 1789946564303
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20041248-sns-4-72-12-oz-dove-treats-liquid-hand-wash-cinnamon-pumpkin-pie-at-amazon|$4.72",
+      "ts": 1789946569347
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20041254-sns-ac-5-55-27-1-oz-johnson-s-tear-free-bedtime-baby-moisture-wash-with-soothing-naturalcalm-aromas-at-amazon|$1",
+      "ts": 1789946574388
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20041188-13-97-get-4-walmart-cash-palmer-s-moisturizing-body-oil-with-tahitian-vanilla-6-5-fl-oz|$4",
+      "ts": 1789946579442
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20041239-sns-ac-4-12-12-oz-aveeno-baby-coily-hair-conditioner-conditioner-coily-at-amazon|$2",
+      "ts": 1789946584492
+    },
+    {
+      "key": "amazonus|b0dm2ndm41|$349.99",
+      "ts": 1789946589924
+    },
+    {
+      "key": "amazonus|b0dtyj1rkk|$351.99",
+      "ts": 1789946596450
+    },
+    {
+      "key": "amazonus|b0d6r9nwbb|$69.96",
+      "ts": 1789946602635
     }
   ]
 }
