@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0czplv566|$129.95",
-      "ts": 1789368156527
-    },
-    {
-      "key": "amazonus|b0czpgx972|$129.95",
-      "ts": 1789368161727
-    },
-    {
-      "key": "amazonus|b0czphpjln|$129.95",
-      "ts": 1789368167885
-    },
-    {
-      "key": "amazonus|b0gsvqrcc5|$599.00",
-      "ts": 1789368174316
-    },
-    {
       "key": "amazonus|b076hzfy3f|$39.90",
       "ts": 1789399493980
     },
@@ -407,6 +391,22 @@
     {
       "key": "amazonus|b0dwrp7ksx|$35.99",
       "ts": 1789972961889
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20043876-34-99-ac-walmart-fs-by-teayingde-yexmas-8ft-halloween-inflatable-pumpkins-outdoor-decor-with-black-cat-and-spectre-built-in-led-lights|$5",
+      "ts": 1790004165217
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20043843-little-kids-pop-n-swirl-bubble-machine-6-free-shipping-w-walmart-or-on-35|$6",
+      "ts": 1790004170492
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20043864-popup-shade-10-x10-instant-canopy-one-person-setup-plus-wheel-bag-124-99-free-shipping-costco-com|$25",
+      "ts": 1790004175528
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20043816-prime-7-36-children-of-time-by-adrian-tchaikovsky-paperback-at-amazon|$7.36",
+      "ts": 1790004180698
     }
   ]
 }
