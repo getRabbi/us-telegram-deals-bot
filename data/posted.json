@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0002kvqba|$209.00",
-      "ts": 1789341585517
-    },
-    {
-      "key": "amazonus|b086jhcjtx|$299.99",
-      "ts": 1789341591495
-    },
-    {
-      "key": "amazonus|b0bmp2ms1c|$279.98",
-      "ts": 1789341597743
-    },
-    {
-      "key": "amazonus|b0cdl572cc|$489.99",
-      "ts": 1789341603998
-    },
-    {
       "key": "amazonus|b0czplv566|$129.95",
       "ts": 1789368156527
     },
@@ -399,6 +383,30 @@
     {
       "key": "amazonus|b0d6r9nwbb|$69.96",
       "ts": 1789946602635
+    },
+    {
+      "key": "amazonus|b0djmp6t3n|$88.99",
+      "ts": 1789972935692
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20041998-sns-ac-13-75-4-6-pack-16-9-oz-coca-cola-soda-3-44-each-at-amazon-57-3-each|$3.44",
+      "ts": 1789972940776
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20041965-12-pack-231-sheets-scott-comfortplus-toilet-paper-triple-rolls-5-68-free-shipping-w-prime-or-on-orders-over-35|$5.68",
+      "ts": 1789972945867
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20041989-kohls-10-off-50-toys-coupon-more|$10",
+      "ts": 1789972950951
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20041953-7-67-8-pack-munchkin-wild-animal-baby-and-toddler-bath-toy-squirts-at-amazon|$7.67",
+      "ts": 1789972956015
+    },
+    {
+      "key": "amazonus|b0dwrp7ksx|$35.99",
+      "ts": 1789972961889
     }
   ]
 }
