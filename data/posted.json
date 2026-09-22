@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b076hzfy3f|$39.90",
-      "ts": 1789399493980
-    },
-    {
-      "key": "amazonus|b0dkvdzxsn|$208.73",
-      "ts": 1789399499223
-    },
-    {
-      "key": "amazonus|b0cxj5hm24|$50.57",
-      "ts": 1789399505866
-    },
-    {
-      "key": "amazonus|b0cglq1yb5|$49.99",
-      "ts": 1789399512618
-    },
-    {
-      "key": "amazonus|b0fvfgl38h|$899.98",
-      "ts": 1789430371230
-    },
-    {
-      "key": "amazonus|b0f3xl19jw|$64.99",
-      "ts": 1789430377672
-    },
-    {
-      "key": "amazonus|b099wtn2tr|$64.99",
-      "ts": 1789430384063
-    },
-    {
-      "key": "amazonus|b0blsghrxb|$64.99",
-      "ts": 1789430390289
-    },
-    {
       "key": "amazonus|b0h72jh23t|$299.99",
       "ts": 1789453434625
     },
@@ -407,6 +375,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20043816-prime-7-36-children-of-time-by-adrian-tchaikovsky-paperback-at-amazon|$7.36",
       "ts": 1790004180698
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20045652-new-customers-olight-imini-2-dream-blue-i3e-eos-keychain-flashlight-14-free-shipping|$13.99",
+      "ts": 1790035759714
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20045988-18-99ac-free-pick-up-walgreens-gillette-mach3-razor-blade-refills-for-men-with-lubrication-strip-3-blade-12-0-ea-ymmv|$6",
+      "ts": 1790035764830
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20045886-apple-airpods-pro-3-169-2-years-applecare-costco-via-doordash-ymmv|$100",
+      "ts": 1790035769952
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20045904-pny-nvidia-geforce-rtx-5070-oc-triple-fan-graphics-card-12gb-gddr7-679-00|$679.00",
+      "ts": 1790035775099
     }
   ]
 }
