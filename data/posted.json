@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0c3qpsc57|$37.98",
-      "ts": 1789539827327
-    },
-    {
-      "key": "amazonus|b0fnqkk1c1|$48.99",
-      "ts": 1789539833881
-    },
-    {
-      "key": "amazonus|b0fjvvbtj9|$329.99",
-      "ts": 1789539840029
-    },
-    {
-      "key": "amazonus|b0djrnwlxf|$109.99",
-      "ts": 1789539845727
-    },
-    {
       "key": "amazonus|b0cdc6h66y|$291.80",
       "ts": 1789566868378
     },
@@ -407,6 +391,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20051658-8-teeturtle-cloudheads-sanrio-cowboy-chococat-plushie-6-12-free-shipping-w-prime-or-on-orders-over-35|$6.12",
       "ts": 1790143905769
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20053053-adguard-vpn-2-year-plan-10-devices-ad-tracker-blocker-included-71-76-2-99-mo|$2.99",
+      "ts": 1790171672197
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20053011-ac-17-96-casio-men-s-w219h-series-digital-watch-at-amazon|$4.50",
+      "ts": 1790171677312
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20053086-prime-8-52-countries-of-the-world-a-visual-encyclopedia-for-kids-hardcover-at-amazon|$8.52",
+      "ts": 1790171682345
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20053083-new-sns-9-59-10-1-oz-joico-color-balance-blue-shampoo-at-amazon|$9.59",
+      "ts": 1790171687620
     }
   ]
 }
