@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b09n6zrh6c|$279.99",
-      "ts": 1789515707100
-    },
-    {
-      "key": "amazonus|b0gtly9z1k|$249.99",
-      "ts": 1789515713626
-    },
-    {
-      "key": "amazonus|b0cg6lmqhh|$189.99",
-      "ts": 1789515718836
-    },
-    {
-      "key": "amazonus|b0fkmhpccb|$129.98",
-      "ts": 1789515725321
-    },
-    {
       "key": "amazonus|b0c3qpsc57|$37.98",
       "ts": 1789539827327
     },
@@ -407,6 +391,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20050824-canon-refurbished-rf-45mm-f1-2-stm-for-339-99-at-canon-refurb-store|$339.99",
       "ts": 1790120310474
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20051667-4-5-oz-gold-bond-diabetic-body-lotion-3-42-w-s-s-free-shipping-w-prime-or-on-orders-over-35|$3.42",
+      "ts": 1790143890149
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20051736-ac-17-96-35-2-mm-casio-f-91w-series-men-s-digital-watch-gold-at-amazon|$4.50",
+      "ts": 1790143895285
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20051691-5-john-wick-chapter-4-dvd-at-amazon|$5",
+      "ts": 1790143900601
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20051658-8-teeturtle-cloudheads-sanrio-cowboy-chococat-plushie-6-12-free-shipping-w-prime-or-on-orders-over-35|$6.12",
+      "ts": 1790143905769
     }
   ]
 }
