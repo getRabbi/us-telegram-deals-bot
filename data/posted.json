@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0cdc6h66y|$291.80",
-      "ts": 1789566868378
-    },
-    {
-      "key": "amazonus|b0ct9552bl|$299.99",
-      "ts": 1789566874529
-    },
-    {
-      "key": "amazonus|b0f4mhyksz|$79.99",
-      "ts": 1789566880633
-    },
-    {
-      "key": "amazonus|b0dfgxphzh|$39.98",
-      "ts": 1789566887176
-    },
-    {
       "key": "amazonus|b0hbw7qzrc|$278.99",
       "ts": 1789602514158
     },
@@ -407,6 +391,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20053083-new-sns-9-59-10-1-oz-joico-color-balance-blue-shampoo-at-amazon|$9.59",
       "ts": 1790171687620
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20055135-new-3-71-medi-first-first-aid-antibiotic-0-5-gram-individual-packet-ointment-400-iu-5-mg-5-000-iu-gram-strength-25-ct-at-amazon|$3.71",
+      "ts": 1790207050692
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20055195-brainplay-kids-super-hard-christmas-puzzles-4-79-free-shipping-w-prime-or-orders-35|$4.79",
+      "ts": 1790207055816
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20055144-new-sns-5-98-64-oz-pace-medium-picante-sauce-at-amazon|$5.98",
+      "ts": 1790207060949
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20055132-new-sns-10-53-12-pack-2-oz-hawaiian-tropic-sheer-touch-lotion-spf-30-at-amazon-87-8-each|$10.53",
+      "ts": 1790207066063
     }
   ]
 }
