@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0hbw7qzrc|$278.99",
-      "ts": 1789602514158
-    },
-    {
-      "key": "amazonus|b095hfstpx|$66.85",
-      "ts": 1789602520552
-    },
-    {
-      "key": "amazonus|b083z41dqs|$299.99",
-      "ts": 1789602526704
-    },
-    {
-      "key": "amazonus|b095hj321w|$68.85",
-      "ts": 1789602533026
-    },
-    {
       "key": "amazonus|b0cqsnxljr|$47.49",
       "ts": 1789626341457
     },
@@ -407,6 +391,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20055132-new-sns-10-53-12-pack-2-oz-hawaiian-tropic-sheer-touch-lotion-spf-30-at-amazon-87-8-each|$10.53",
       "ts": 1790207066063
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20056002-new-2-48-hunter-pro-spray-pros-04-4-in-pop-up-lawn-sprinkler-head-body-no-nozzle-at-amazon|$2.48",
+      "ts": 1790230878031
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20056008-new-sns-2-85-3-pack-55-count-pur-gum-spearmint-xylitol-gum-at-amazon|$2.85",
+      "ts": 1790230883205
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20056077-19-oz-windex-fast-shine-foam-glass-cleaner-spray-grapefruit-2-82-w-s-s-free-shipping-w-prime-or-on-orders-over-35|$2.82",
+      "ts": 1790230888532
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20056032-new-5-05-prang-construction-paper-gray-12-x-18-50-sheets-at-amazon|$5.05",
+      "ts": 1790230893711
     }
   ]
 }
