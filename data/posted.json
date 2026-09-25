@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b07y5vqyfw|$287.99",
-      "ts": 1789712099589
-    },
-    {
-      "key": "amazonus|b0dxwvhc6x|$289.99",
-      "ts": 1789712106040
-    },
-    {
-      "key": "amazonus|b09mkpdjrt|$64.94",
-      "ts": 1789712112116
-    },
-    {
-      "key": "amazonus|b0f7ps35r2|$419.00",
-      "ts": 1789712118799
-    },
-    {
-      "key": "amazonus|b0cg155xqy|$37.98",
-      "ts": 1789737528554
-    },
-    {
-      "key": "amazonus|b0chs3fkrs|$37.98",
-      "ts": 1789737534546
-    },
-    {
-      "key": "amazonus|b0f4lpctkt|$79.99",
-      "ts": 1789737540646
-    },
-    {
-      "key": "amazonus|b0ghrbhvmj|$424.00",
-      "ts": 1789737546925
-    },
-    {
       "key": "amazonus|b0bp9snvh9|$49.99",
       "ts": 1789774042656
     },
@@ -391,6 +359,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20060154-woot-app-239-99-samsung-43-smart-monitor-m7-m70f-4k-uhd-display-at-woot|$40",
       "ts": 1790317014192
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20058300-30-off-watch-gang-sitewide-seiko-watches-40-styles-fs-on-400|$9.82",
+      "ts": 1790345576556
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20061087-3-74-shrek-the-third-dvd-at-amazon|$3.74",
+      "ts": 1790345581749
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20061108-8-97-nike-swoosh-infant-ankle-socks-6-pack-2-4t-at-dick-s-sporting-goods|$8.97",
+      "ts": 1790345586751
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20061111-7-74-12-count-bic-gelocity-quick-dry-black-gel-pens-medium-point-0-7-mm-at-amazon|$7.74",
+      "ts": 1790345591751
     }
   ]
 }
