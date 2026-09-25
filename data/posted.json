@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0bp9snvh9|$49.99",
-      "ts": 1789774042656
-    },
-    {
-      "key": "amazonus|b0bvzfq4df|$54.92",
-      "ts": 1789774048809
-    },
-    {
-      "key": "amazonus|b006lxojc0|$45.84",
-      "ts": 1789774055245
-    },
-    {
-      "key": "amazonus|b0dxwvhc6x|$287.99",
-      "ts": 1789774060788
-    },
-    {
       "key": "amazonus|b0cfyc1q3p|$44.99",
       "ts": 1789798480953
     },
@@ -375,6 +359,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20061111-7-74-12-count-bic-gelocity-quick-dry-black-gel-pens-medium-point-0-7-mm-at-amazon|$7.74",
       "ts": 1790345591751
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20062764-3-74-the-lincoln-lawyer-dvd-at-amazon|$3.74",
+      "ts": 1790380735737
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20062755-3-74-mama-dvd-at-amazon|$3.74",
+      "ts": 1790380740945
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20062770-5-maxwell-s-urban-hang-suite-audio-cd-w-autorip-mp3-at-amazon|$5",
+      "ts": 1790380746143
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20062758-5-creed-iii-dvd-at-amazon|$5",
+      "ts": 1790380751295
     }
   ]
 }
