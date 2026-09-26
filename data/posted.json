@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b09mkpdjrt|$59.99",
-      "ts": 1789859664426
-    },
-    {
-      "key": "amazonus|b0h2z8qbn5|$54.98",
-      "ts": 1789859670382
-    },
-    {
-      "key": "amazonus|b0dz6vrpt7|$54.97",
-      "ts": 1789859675793
-    },
-    {
-      "key": "amazonus|b07b4yzdxg|$36.49",
-      "ts": 1789859680939
-    },
-    {
       "key": "amazonus|b0dm7111md|$279.99",
       "ts": 1789886408221
     },
@@ -359,6 +343,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20063865-hilomon-45l-expandable-duffle-bag-carry-on-travel-gym-bag-14-99-free-s-h-w-prime-or-35|$14.99",
       "ts": 1790429155318
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20065155-sns-1-19-0-5-oz-knorr-pasta-sauce-pesto-at-amazon|$1.19",
+      "ts": 1790465998034
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20065167-1-28-18-5-oz-progresso-italian-style-bean-pasta-protein-soup-at-amazon|$1.28",
+      "ts": 1790466003048
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20065146-1-87-18-oz-amazon-grocery-real-mayonnaise-at-amazon|$1.78",
+      "ts": 1790466008085
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20065131-3-74-the-martian-dvd-at-amazon|$3.74",
+      "ts": 1790466013101
     }
   ]
 }
