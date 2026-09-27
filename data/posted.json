@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0dm7111md|$279.99",
-      "ts": 1789886408221
-    },
-    {
-      "key": "amazonus|b0dm74249y|$279.99",
-      "ts": 1789886414772
-    },
-    {
-      "key": "amazonus|b0f4lsg43k|$79.99",
-      "ts": 1789886421341
-    },
-    {
-      "key": "amazonus|b0cglpph6q|$39.99",
-      "ts": 1789886428033
-    },
-    {
       "key": "amazonus|b07hxh6x3l|$69.94",
       "ts": 1789910593364
     },
@@ -359,6 +343,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20065131-3-74-the-martian-dvd-at-amazon|$3.74",
       "ts": 1790466013101
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20066022-schick-mens-womens-disposable-razors-at-link-earn-10-wags-cash-on-25-spend-4-1-digital-and-5-25-or-10-40-codes|$4",
+      "ts": 1790491465896
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20066001-4-92-2-ct-bessey-2-1-4-table-clamp-at-amazon|$4.92",
+      "ts": 1790491470944
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20065992-sonoma-goods-for-life-women-s-lightweight-v-neck-sweater-brown-black-stripe-gray-blue-stripe-7-49-free-store-pick-up-or-fs-on-49|$7.49",
+      "ts": 1790491475995
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20066061-walgreens-mens-womens-3ct-disposable-razors-2-2-68-ac-earn-2-wags-cash-fpu-at-10|$2",
+      "ts": 1790491481037
     }
   ]
 }
