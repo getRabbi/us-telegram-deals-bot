@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "slickdeals|https://slickdeals.net/f/20092464-amex-offers-to-10-31-spend-75-at-once-spirit-of-halloween-get-15-statement-credit-ymmv-activate-offer|$15",
-      "ts": 1791035917366
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/20092401-prime-10-08-dk-knowledge-encyclopedia-space-hardcover-at-amazon|$10.08",
-      "ts": 1791035922405
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/20092443-new-sns-12-51-7-9-oz-maggi-granulated-chicken-bouillon-at-amazon|$12.51",
-      "ts": 1791035927480
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/20092422-sofirn-sp36-pro-8000-lumen-rechargeable-flashlight-w-anduril-2-free-s-h-28-79|$28.79",
-      "ts": 1791035932497
-    },
-    {
       "key": "slickdeals|https://slickdeals.net/f/20093760-cole-parmer-polystat-ao-12122-36-cole-parmer-polystat-cooling-heating-circulating-bath-standard-8-6-l-15l-28-to-150-degreec-115-vac-3661-9|$36",
       "ts": 1791071341141
     },
@@ -335,6 +319,22 @@
     {
       "key": "amazonus|b0dd3bjj7g|$217.99",
       "ts": 1791617443120
+    },
+    {
+      "key": "amazonus|b0b6g9tpnq|$212.50",
+      "ts": 1791644117446
+    },
+    {
+      "key": "amazonus|b00005up2p|$379.95",
+      "ts": 1791644123747
+    },
+    {
+      "key": "amazonus|b07qhqf44t|$349.99",
+      "ts": 1791644130276
+    },
+    {
+      "key": "amazonus|b07q8k4qts|$239.99",
+      "ts": 1791644136171
     }
   ]
 }
