@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "slickdeals|https://slickdeals.net/f/20107977-prime-15-99-anker-zolo-4-port-up-to-50w-usb-c-usb-a-wall-charger-black-or-white-at-amazon|$15.99",
-      "ts": 1791272718125
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/20107986-prime-sns-ac-19-63-32-pack-scott-1-ply-1000-sheet-toilet-paper-rolls-at-amazon-61-3-each|$19.63",
-      "ts": 1791272723266
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/20107956-sns-ac-10-47-20-pk-4-2-oz-nongshim-shin-ramyun-ramen-noodle-beef-flavored-broth-at-amazon-52-4-each|$10.47",
-      "ts": 1791272728402
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/20108025-prime-sns-ac-16-02-12-pk-11-oz-ensure-max-protein-nutrition-shake-cafe-mocha-at-amazon|$16.02",
-      "ts": 1791272733543
-    },
-    {
       "key": "slickdeals|https://slickdeals.net/f/20113623-prime-6-39-1-3-8-chaoren-men-s-leather-micro-adjustable-ratchet-belt-32-38-waist-black-at-amazon|$6.39",
       "ts": 1791300674619
     },
@@ -335,6 +319,22 @@
     {
       "key": "amazonus|b07jvd78tt|$399.95",
       "ts": 1791859456088
+    },
+    {
+      "key": "amazonus|b0h99bp24x|$89.99",
+      "ts": 1791878423431
+    },
+    {
+      "key": "amazonus|b0f233d6w1|$199.00",
+      "ts": 1791878429863
+    },
+    {
+      "key": "amazonus|b0dl9mtlnv|$119.00",
+      "ts": 1791878436330
+    },
+    {
+      "key": "amazonus|b0dlb9ymww|$119.00",
+      "ts": 1791878444123
     }
   ]
 }
