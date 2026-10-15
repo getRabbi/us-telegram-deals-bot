@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b002pf3p5u|$359.00",
-      "ts": 1791421798017
-    },
-    {
-      "key": "amazonus|b07r295mls|$132.99",
-      "ts": 1791421804390
-    },
-    {
-      "key": "amazonus|b0c8pt7df5|$149.95",
-      "ts": 1791421810139
-    },
-    {
-      "key": "amazonus|b0c9kpbsv2|$58.00",
-      "ts": 1791421816109
-    },
-    {
       "key": "amazonus|b0gmkrr64p|$79.99",
       "ts": 1791445440929
     },
@@ -351,6 +335,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20160510-barbie-mini-barbieland-holiday-bundle-w-5-mini-dolls-3-snow-playsets-14-99-free-shipping-w-prime-or-on-35|$14.99",
       "ts": 1792022274260
+    },
+    {
+      "key": "amazonus|b0gcfkfr1t|$599.99",
+      "ts": 1792044507404
+    },
+    {
+      "key": "amazonus|b0hf478b8l|$749.99",
+      "ts": 1792044513978
+    },
+    {
+      "key": "amazonus|b0cdqmqqs2|$899.99",
+      "ts": 1792044520316
+    },
+    {
+      "key": "amazonus|b0h6kj7z91|$39.19",
+      "ts": 1792044526689
     }
   ]
 }
