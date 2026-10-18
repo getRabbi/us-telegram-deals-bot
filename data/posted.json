@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0h4wxsxhs|$499.99",
-      "ts": 1791731550222
-    },
-    {
-      "key": "amazonus|b0c1njdttx|$35.99",
-      "ts": 1791731556472
-    },
-    {
-      "key": "amazonus|b0h31syswz|$799.95",
-      "ts": 1791731562175
-    },
-    {
-      "key": "amazonus|b0c1nlb5bt|$39.99",
-      "ts": 1791731568405
-    },
-    {
       "key": "slickdeals|https://slickdeals.net/f/20143725-sns-1-83-230-count-amazon-grocery-zero-calorie-aspartame-sweetener-packets-at-amazon|$1.83",
       "ts": 1791765261415
     },
@@ -351,6 +335,22 @@
     {
       "key": "amazonus|b0g18yfsbv|$35.99",
       "ts": 1792328205339
+    },
+    {
+      "key": "amazonus|b0fwk41wf2|$499.98",
+      "ts": 1792365635932
+    },
+    {
+      "key": "amazonus|b0dj1g62nx|$39.90",
+      "ts": 1792365642504
+    },
+    {
+      "key": "amazonus|b0dj1hb47x|$39.90",
+      "ts": 1792365649009
+    },
+    {
+      "key": "amazonus|b0dj1hb9yn|$39.90",
+      "ts": 1792365655158
     }
   ]
 }
