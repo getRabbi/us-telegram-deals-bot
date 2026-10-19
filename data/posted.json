@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "slickdeals|https://slickdeals.net/f/20143725-sns-1-83-230-count-amazon-grocery-zero-calorie-aspartame-sweetener-packets-at-amazon|$1.83",
-      "ts": 1791765261415
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/20143758-4-pack-1-oz-hidden-valley-original-ranch-seasoning-dressing-mix-3-15-w-s-s-free-shipping-w-prime-or-on-35|$3.32",
-      "ts": 1791765266535
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/20143710-4-88-2-winco-dial-deep-fry-candy-thermometer-w-5-probe-at-amazon|$4.88",
-      "ts": 1791765271648
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/20143716-sns-15-20-4-pack-16-oz-dial-men-3-in-1-body-hair-face-wash-recharge-cedar-leaf-scent-at-amazon-3-80-each|$3.80",
-      "ts": 1791765276773
-    },
-    {
       "key": "amazonus|b0dwxbcqvp|$279.98",
       "ts": 1791790870359
     },
@@ -351,6 +335,22 @@
     {
       "key": "amazonus|b0dj1hb9yn|$39.90",
       "ts": 1792365655158
+    },
+    {
+      "key": "amazonus|b0dkvg5sr4|$46.66",
+      "ts": 1792391528514
+    },
+    {
+      "key": "amazonus|b0dkvrrg24|$49.90",
+      "ts": 1792391534959
+    },
+    {
+      "key": "amazonus|b0f46qwz4p|$52.15",
+      "ts": 1792391541787
+    },
+    {
+      "key": "amazonus|b0fqlnrw1t|$54.90",
+      "ts": 1792391547915
     }
   ]
 }
