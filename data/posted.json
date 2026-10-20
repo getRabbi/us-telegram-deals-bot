@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0h99bp24x|$89.99",
-      "ts": 1791878423431
-    },
-    {
-      "key": "amazonus|b0f233d6w1|$199.00",
-      "ts": 1791878429863
-    },
-    {
-      "key": "amazonus|b0dl9mtlnv|$119.00",
-      "ts": 1791878436330
-    },
-    {
-      "key": "amazonus|b0dlb9ymww|$119.00",
-      "ts": 1791878444123
-    },
-    {
       "key": "slickdeals|https://slickdeals.net/f/20153109-philips-sonicare-c3-two-in-one-replacement-electric-toothbrush-heads-soft-bristle-plaque-removal-and-whitening-8-pack-49-99-1-99-shipping-white-or-black-costco-com|$1.99",
       "ts": 1791908979861
     },
@@ -351,6 +335,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20181627-columbia-women-s-pfg-whipray-black-foxglove-sizr-11-only-36-99|$15",
       "ts": 1792476829718
+    },
+    {
+      "key": "amazonus|b0b6g9tpnq|$204.50",
+      "ts": 1792504871765
+    },
+    {
+      "key": "amazonus|b0762ffnq4|$499.98",
+      "ts": 1792504877982
+    },
+    {
+      "key": "amazonus|b0c3t865c2|$299.48",
+      "ts": 1792504884300
+    },
+    {
+      "key": "amazonus|b0cdd4cj15|$409.49",
+      "ts": 1792504890987
     }
   ]
 }
