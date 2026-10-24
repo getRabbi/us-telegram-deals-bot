@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0dj1gxtxx|$39.90",
-      "ts": 1792240511467
-    },
-    {
-      "key": "amazonus|b0c5x888s1|$39.99",
-      "ts": 1792240517952
-    },
-    {
-      "key": "amazonus|b0dflzctdr|$42.98",
-      "ts": 1792240524347
-    },
-    {
-      "key": "amazonus|b0dk518vkk|$45.97",
-      "ts": 1792240530734
-    },
-    {
       "key": "amazonus|b07q8k4qts|$239.99",
       "ts": 1792279043161
     },
@@ -335,6 +319,38 @@
     {
       "key": "amazonus|b0hctzy3nc|$80.99",
       "ts": 1792822399226
+    },
+    {
+      "key": "amazonus|b0dkn8trr2|$80.98",
+      "ts": 1792847151451
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20201151-babylisspro-x-tomb45-silverfx-wireless-charging-trimmer-139-99-free-shipping-w-prime-or-6-fee-per-order|$6",
+      "ts": 1792847156648
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20201145-mooer-micro-drummer-ii-48-rhythm-drum-machine-pedal-47-99-free-shipping-w-prime-or-6-fee-per-order|$6",
+      "ts": 1792847161876
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20201046-6-20-silver-buffalo-disney-villains-ursula-glitter-ceramic-camper-mug-20oz-at-amazon|$6.20",
+      "ts": 1792847167056
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20201133-ymmv-greenworks-60v-electric-leaf-blower-610-cfm-2-5-ah-battery-and-charger-97-99|$42",
+      "ts": 1792847172251
+    },
+    {
+      "key": "amazonus|b0dkndtjfy|$80.98",
+      "ts": 1792847178366
+    },
+    {
+      "key": "amazonus|b0c8mwjhwb|$53.99",
+      "ts": 1792847185134
+    },
+    {
+      "key": "amazonus|b0c8t3rtyp|$53.99",
+      "ts": 1792847191659
     }
   ]
 }
