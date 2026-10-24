@@ -351,6 +351,38 @@
     {
       "key": "amazonus|b0c8t3rtyp|$53.99",
       "ts": 1792847191659
+    },
+    {
+      "key": "amazonus|b0csk29339|$53.99",
+      "ts": 1792884206884
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20202717-14-5-oz-amazon-grocery-no-salt-added-diced-tomatoes-0-64-w-s-s-free-shipping-w-prime-or-on-35|$0.80",
+      "ts": 1792884211927
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20202561-0-2-oz-amazon-grocery-freeze-dried-chives-2-19-w-s-s-free-shipping-w-prime-or-on-35|$2.19",
+      "ts": 1792884216972
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20202633-hoover-spotless-mini-portable-spot-cleaner-fh12300-69-99-free-shipping|$10",
+      "ts": 1792884222038
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20202639-ymmv-select-loreal-paris-cosmetics-from-2-for-0-99|$0.99",
+      "ts": 1792884227083
+    },
+    {
+      "key": "amazonus|b0c8t5rvbn|$49.49",
+      "ts": 1792884233557
+    },
+    {
+      "key": "amazonus|b0c6x1fnpg|$49.49",
+      "ts": 1792884240068
+    },
+    {
+      "key": "amazonus|b0fxrqqkqk|$359.99",
+      "ts": 1792884246118
     }
   ]
 }
