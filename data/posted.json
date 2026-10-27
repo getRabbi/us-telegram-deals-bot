@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0b6g9tpnq|$204.50",
-      "ts": 1792504871765
-    },
-    {
-      "key": "amazonus|b0762ffnq4|$499.98",
-      "ts": 1792504877982
-    },
-    {
-      "key": "amazonus|b0c3t865c2|$299.48",
-      "ts": 1792504884300
-    },
-    {
-      "key": "amazonus|b0cdd4cj15|$409.49",
-      "ts": 1792504890987
-    },
-    {
       "key": "amazonus|b003oajgjo|$35.99",
       "ts": 1792540909975
     },
@@ -427,6 +411,38 @@
     {
       "key": "amazonus|b0dvd68373|$129.00",
       "ts": 1793083114310
+    },
+    {
+      "key": "amazonus|b0gxknbzb8|$99.99",
+      "ts": 1793113506504
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20216946-jaws-blu-ray-digital-6-99|$6.99",
+      "ts": 1793113511893
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20217021-20-eteramus-embroidered-reindeer-velvet-christmas-stocking-w-white-plush-cuff-red-4-95-free-shipping-w-prime-or-on-35|$9.90",
+      "ts": 1793113516878
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20216970-sinners-blu-ray-digital-9-99|$9.99",
+      "ts": 1793113521873
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20217030-amazon-gobidex-magnetic-tiles-army-building-set-9-99-w-code|$9.99",
+      "ts": 1793113526923
+    },
+    {
+      "key": "amazonus|b0h3pbjlbm|$98.99",
+      "ts": 1793113533507
+    },
+    {
+      "key": "amazonus|b0gxkvny2f|$89.99",
+      "ts": 1793113540081
+    },
+    {
+      "key": "amazonus|b0gxklg1m6|$109.99",
+      "ts": 1793113546183
     }
   ]
 }
