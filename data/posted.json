@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0b6g9tpnq|$204.60",
-      "ts": 1792563541782
-    },
-    {
-      "key": "amazonus|b0b6ghw1sx|$212.99",
-      "ts": 1792563548179
-    },
-    {
-      "key": "amazonus|b0fkczvx5b|$229.95",
-      "ts": 1792563554529
-    },
-    {
-      "key": "amazonus|b0fnwlcj3z|$229.95",
-      "ts": 1792563560843
-    },
-    {
       "key": "amazonus|b00c6sv33m|$54.00",
       "ts": 1792592243240
     },
@@ -443,6 +427,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20219649-huanuo-fluffy-vanity-chair-w-bear-backrest-white-29-99-free-shipping-w-prime-or-on-35|$35",
       "ts": 1793148035865
+    },
+    {
+      "key": "amazonus|b0d38ft41h|$94.99",
+      "ts": 1793171229515
+    },
+    {
+      "key": "amazonus|b0bzvzb9sz|$45.97",
+      "ts": 1793171236819
+    },
+    {
+      "key": "amazonus|b0bzsc7x37|$49.97",
+      "ts": 1793171243550
+    },
+    {
+      "key": "amazonus|b0c5x888s1|$39.99",
+      "ts": 1793171250063
     }
   ]
 }
