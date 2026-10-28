@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b003oajgjo|$35.99",
-      "ts": 1792540909975
-    },
-    {
-      "key": "amazonus|b0hjcrv1j6|$429.98",
-      "ts": 1792540916422
-    },
-    {
-      "key": "amazonus|b0g43bz9nc|$35.98",
-      "ts": 1792540922800
-    },
-    {
-      "key": "amazonus|b0h29d9yys|$38.98",
-      "ts": 1792540928885
-    },
-    {
       "key": "amazonus|b0b6g9tpnq|$204.60",
       "ts": 1792563541782
     },
@@ -443,6 +427,22 @@
     {
       "key": "amazonus|b0gxklg1m6|$109.99",
       "ts": 1793113546183
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20219619-t-mobile-get-samsung-galaxy-w-trade-in-or-activation|$99.99",
+      "ts": 1793148020729
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20219580-hp-omnibook-x-flip-2-in-1-laptop-ryzen-ai9-465-16-oled-touch-32gb-512gb-1000-new-ymmv-open-box-excellent-free-shipping-790-good-770-fair-750-749-99|$100",
+      "ts": 1793148025778
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20219628-17-99-harry-potter-the-complete-8-film-collection-dvd-at-amazon|$17.99",
+      "ts": 1793148030813
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20219649-huanuo-fluffy-vanity-chair-w-bear-backrest-white-29-99-free-shipping-w-prime-or-on-35|$35",
+      "ts": 1793148035865
     }
   ]
 }
