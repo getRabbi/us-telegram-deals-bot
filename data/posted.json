@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0cglq1yb5|$40.99",
-      "ts": 1792650200973
-    },
-    {
-      "key": "amazonus|b0cqsnxljr|$47.48",
-      "ts": 1792650207199
-    },
-    {
-      "key": "amazonus|b0dnyjb2f6|$47.48",
-      "ts": 1792650213439
-    },
-    {
-      "key": "amazonus|b0gtc14bfw|$589.99",
-      "ts": 1792650219348
-    },
-    {
       "key": "amazonus|b0cm6vdksq|$149.00",
       "ts": 1792678581808
     },
@@ -443,6 +427,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20225124-12-playmobil-junior-everyday-heroes-at-amazon|$12",
       "ts": 1793235734928
+    },
+    {
+      "key": "amazonus|b0fk2hpncb|$599.98",
+      "ts": 1793258772742
+    },
+    {
+      "key": "amazonus|b003oajgjo|$35.99",
+      "ts": 1793258778857
+    },
+    {
+      "key": "amazonus|b0cb6b2jwg|$139.94",
+      "ts": 1793258785242
+    },
+    {
+      "key": "amazonus|b0dp542w7g|$49.99",
+      "ts": 1793258791470
     }
   ]
 }
