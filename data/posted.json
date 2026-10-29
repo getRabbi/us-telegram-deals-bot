@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0cm6vdksq|$149.00",
-      "ts": 1792678581808
-    },
-    {
-      "key": "amazonus|b0fs17727m|$37.98",
-      "ts": 1792678587387
-    },
-    {
-      "key": "amazonus|b0cyt3k28t|$55.99",
-      "ts": 1792678593785
-    },
-    {
-      "key": "amazonus|b0dpk6zvbf|$47.58",
-      "ts": 1792678600084
-    },
-    {
       "key": "amazonus|b08mt92nh9|$246.49",
       "ts": 1792714125335
     },
@@ -443,6 +427,22 @@
     {
       "key": "amazonus|b0dp542w7g|$49.99",
       "ts": 1793258791470
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20227761-2-piece-no-boundaries-cloud-core-women-s-sleepwear-tube-top-and-skort-set-from-4-95-10-70-free-s-h-w-walmart-or-on-35|$4.95",
+      "ts": 1793288387225
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20227851-2-glocusent-nano-glow-white-noise-sound-machine-w-bluetooth-35-sounds-rgb-night-light-5-99-free-shipping-w-prime-or-on-35|$8.99",
+      "ts": 1793288392329
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20227797-maoyue-dimmable-candle-warmer-lamp-w-adjustable-height-timer-11-99-free-shipping-w-prime-or-on-35|$11.99",
+      "ts": 1793288397407
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20227830-15-73-24-oz-contigo-dualsip-stainless-steel-water-bottle-at-amazon|$15.73",
+      "ts": 1793288402507
     }
   ]
 }
