@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0d83h43hv|$139.99",
-      "ts": 1792627768197
-    },
-    {
-      "key": "amazonus|b0d2w24xfx|$129.99",
-      "ts": 1792627774741
-    },
-    {
-      "key": "amazonus|b0hkhtffyq|$269.99",
-      "ts": 1792627781100
-    },
-    {
-      "key": "amazonus|b0djljvs16|$224.99",
-      "ts": 1792627787285
-    },
-    {
       "key": "amazonus|b0cglq1yb5|$40.99",
       "ts": 1792650200973
     },
@@ -443,6 +427,22 @@
     {
       "key": "amazonus|b0fr4nzn55|$49.49",
       "ts": 1793201913972
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20225103-60-count-zahler-chapter-six-beet-root-500mg-dark-cherry-gummies-2-92-0-05-each-w-s-s-free-shipping-w-prime-or-on-35|$2.92",
+      "ts": 1793235719425
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20225223-6-pack-1-oz-pirate-s-booty-aged-white-cheddar-baked-cheese-puffs-4-19-w-s-s-free-shipping-w-prime-or-on-35|$4.19",
+      "ts": 1793235724609
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20225127-soundpeats-cc3-pro-open-ear-earbuds-45-49|$14",
+      "ts": 1793235729759
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20225124-12-playmobil-junior-everyday-heroes-at-amazon|$12",
+      "ts": 1793235734928
     }
   ]
 }
