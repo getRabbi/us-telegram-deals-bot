@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b08mt92nh9|$246.49",
-      "ts": 1792714125335
-    },
-    {
-      "key": "amazonus|b09x2x6gxr|$237.99",
-      "ts": 1792714131540
-    },
-    {
-      "key": "amazonus|b0fkt15mh2|$219.98",
-      "ts": 1792714137748
-    },
-    {
-      "key": "amazonus|b0dl8zw9xx|$169.99",
-      "ts": 1792714143554
-    },
-    {
       "key": "amazonus|b0b6g9tpnq|$202.56",
       "ts": 1792736679630
     },
@@ -443,6 +427,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20227830-15-73-24-oz-contigo-dualsip-stainless-steel-water-bottle-at-amazon|$15.73",
       "ts": 1793288402507
+    },
+    {
+      "key": "amazonus|b0d1cxl52g|$139.99",
+      "ts": 1793322426412
+    },
+    {
+      "key": "amazonus|b0dqhjr1yb|$47.44",
+      "ts": 1793322432781
+    },
+    {
+      "key": "amazonus|b08mvbywgq|$249.99",
+      "ts": 1793322438942
+    },
+    {
+      "key": "amazonus|b0hd7r5l1d|$79.99",
+      "ts": 1793322444946
     }
   ]
 }
