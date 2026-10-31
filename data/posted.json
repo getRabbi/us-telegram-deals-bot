@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0dwv55dxh|$299.99",
-      "ts": 1792800058137
-    },
-    {
-      "key": "amazonus|b0hft7rjlf|$399.98",
-      "ts": 1792800063339
-    },
-    {
-      "key": "amazonus|b0hfth7vc4|$399.98",
-      "ts": 1792800068527
-    },
-    {
-      "key": "amazonus|b0dphlwnbg|$297.49",
-      "ts": 1792800075125
-    },
-    {
       "key": "amazonus|b0hfn3pcp5|$206.99",
       "ts": 1792822380323
     },
@@ -443,6 +427,22 @@
     {
       "key": "amazonus|b0h7c5231m|$79.98",
       "ts": 1793374205413
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20234496-milwaukee-m18-redlithium-forge-xc-8-0ah-battery-pack-18v-lithium-ion-high-output-power-tool-battery-model-48-11-1881|$8.91",
+      "ts": 1793407756130
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20234475-22-oz-st-ives-oatmeal-shea-butter-moisturizing-body-wash-3-99-free-shipping-w-prime-or-on-35|$3.99",
+      "ts": 1793407761405
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20234523-funko-pop-one-piece-king-vinyl-figure-5-free-shipping-w-prime-or-on-35|$5",
+      "ts": 1793407766518
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20234448-greenworks-commercial-82-volt-24-in-battery-hedge-trimmer-2-5-ah-battery-included-charger-included-82ph30f-25dp-199|$199",
+      "ts": 1793407771615
     }
   ]
 }
