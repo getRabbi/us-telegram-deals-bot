@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0hfn3pcp5|$206.99",
-      "ts": 1792822380323
-    },
-    {
-      "key": "amazonus|b0h8btq6vh|$179.99",
-      "ts": 1792822387029
-    },
-    {
-      "key": "amazonus|b0hctg5fp5|$80.99",
-      "ts": 1792822392939
-    },
-    {
-      "key": "amazonus|b0hctzy3nc|$80.99",
-      "ts": 1792822399226
-    },
-    {
       "key": "amazonus|b0dkn8trr2|$80.98",
       "ts": 1792847151451
     },
@@ -443,6 +427,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20234448-greenworks-commercial-82-volt-24-in-battery-hedge-trimmer-2-5-ah-battery-included-charger-included-82ph30f-25dp-199|$199",
       "ts": 1793407771615
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20235408-4-5-oz-gold-bond-diabetic-body-lotion-2-72-w-s-s-free-shipping-w-prime-or-on-orders-over-35|$2.72",
+      "ts": 1793430683680
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20235396-3-count-3-4-oz-method-body-wash-gift-set-pure-peace-simply-nourish-sea-surf-7-47-w-s-s-free-shipping-w-prime-or-on-orders-over-35|$7.47",
+      "ts": 1793430688904
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20235324-whirlpool-21-3-cu-ft-wide-top-freezer-refrigerator-with-total-coverage-cooling-black-699-99-bestbuy-com|$699.99",
+      "ts": 1793430694067
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20235351-149-craftsman-versastack-262-piece-metric-and-standard-sae-mechanics-tool-set-with-hard-case-cmmt45309-at-lowe-s|$149",
+      "ts": 1793430699247
     }
   ]
 }
