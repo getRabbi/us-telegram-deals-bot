@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0gxknbzb8|$99.99",
-      "ts": 1793113506504
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/20216946-jaws-blu-ray-digital-6-99|$6.99",
-      "ts": 1793113511893
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/20217021-20-eteramus-embroidered-reindeer-velvet-christmas-stocking-w-white-plush-cuff-red-4-95-free-shipping-w-prime-or-on-35|$9.90",
-      "ts": 1793113516878
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/20216970-sinners-blu-ray-digital-9-99|$9.99",
-      "ts": 1793113521873
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/20217030-amazon-gobidex-magnetic-tiles-army-building-set-9-99-w-code|$9.99",
-      "ts": 1793113526923
-    },
-    {
-      "key": "amazonus|b0h3pbjlbm|$98.99",
-      "ts": 1793113533507
-    },
-    {
-      "key": "amazonus|b0gxkvny2f|$89.99",
-      "ts": 1793113540081
-    },
-    {
-      "key": "amazonus|b0gxklg1m6|$109.99",
-      "ts": 1793113546183
-    },
-    {
       "key": "slickdeals|https://slickdeals.net/f/20219619-t-mobile-get-samsung-galaxy-w-trade-in-or-activation|$99.99",
       "ts": 1793148020729
     },
@@ -359,6 +327,22 @@
     {
       "key": "amazonus|b0gs9s5kq7|$698.99",
       "ts": 1793693659464
+    },
+    {
+      "key": "amazonus|b00lugk5qw|$89.99",
+      "ts": 1793724231563
+    },
+    {
+      "key": "amazonus|b0dcbc8kkv|$66.40",
+      "ts": 1793724237861
+    },
+    {
+      "key": "amazonus|b0769zqwh7|$349.95",
+      "ts": 1793724243860
+    },
+    {
+      "key": "amazonus|b0btk1c533|$189.97",
+      "ts": 1793724250109
     }
   ]
 }
