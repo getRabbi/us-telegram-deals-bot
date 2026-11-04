@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0cs3v8m9h|$99.99",
-      "ts": 1793201894138
-    },
-    {
-      "key": "amazonus|b0h2yxzv52|$38.99",
-      "ts": 1793201900596
-    },
-    {
-      "key": "amazonus|b0h2ysdflz|$39.98",
-      "ts": 1793201906520
-    },
-    {
-      "key": "amazonus|b0fr4nzn55|$49.49",
-      "ts": 1793201913972
-    },
-    {
       "key": "slickdeals|https://slickdeals.net/f/20225103-60-count-zahler-chapter-six-beet-root-500mg-dark-cherry-gummies-2-92-0-05-each-w-s-s-free-shipping-w-prime-or-on-35|$2.92",
       "ts": 1793235719425
     },
@@ -343,6 +327,22 @@
     {
       "key": "amazonus|b07ykd2zcg|$38.38",
       "ts": 1793778463733
+    },
+    {
+      "key": "amazonus|b0gzvgnl2d|$89.99",
+      "ts": 1793810637341
+    },
+    {
+      "key": "amazonus|b089tqwjkk|$129.99",
+      "ts": 1793810643858
+    },
+    {
+      "key": "amazonus|b08brrjs9j|$39.98",
+      "ts": 1793810650549
+    },
+    {
+      "key": "amazonus|b0gj5s4v78|$549.00",
+      "ts": 1793810657058
     }
   ]
 }
