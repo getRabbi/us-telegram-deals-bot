@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0fk2hpncb|$599.98",
-      "ts": 1793258772742
-    },
-    {
-      "key": "amazonus|b003oajgjo|$35.99",
-      "ts": 1793258778857
-    },
-    {
-      "key": "amazonus|b0cb6b2jwg|$139.94",
-      "ts": 1793258785242
-    },
-    {
-      "key": "amazonus|b0dp542w7g|$49.99",
-      "ts": 1793258791470
-    },
-    {
       "key": "slickdeals|https://slickdeals.net/f/20227761-2-piece-no-boundaries-cloud-core-women-s-sleepwear-tube-top-and-skort-set-from-4-95-10-70-free-s-h-w-walmart-or-on-35|$4.95",
       "ts": 1793288387225
     },
@@ -343,6 +327,22 @@
     {
       "key": "amazonus|b0fq5bb6ss|$262.17",
       "ts": 1793842464876
+    },
+    {
+      "key": "amazonus|b00dfbdalc|$99.00",
+      "ts": 1793866134895
+    },
+    {
+      "key": "amazonus|b0gwdkpqb5|$107.77",
+      "ts": 1793866141126
+    },
+    {
+      "key": "amazonus|b0h98jh9xt|$139.97",
+      "ts": 1793866147412
+    },
+    {
+      "key": "amazonus|b0bzqfjd4d|$159.94",
+      "ts": 1793866154052
     }
   ]
 }
