@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b00lugk5qw|$89.99",
-      "ts": 1793724231563
-    },
-    {
-      "key": "amazonus|b0dcbc8kkv|$66.40",
-      "ts": 1793724237861
-    },
-    {
-      "key": "amazonus|b0769zqwh7|$349.95",
-      "ts": 1793724243860
-    },
-    {
-      "key": "amazonus|b0btk1c533|$189.97",
-      "ts": 1793724250109
-    },
-    {
       "key": "slickdeals|https://slickdeals.net/f/20252289-16-oz-365-by-whole-foods-market-frosted-wheat-squares-cereal-2-06-w-s-s-free-shipping-w-prime-or-on-35|$2.06",
       "ts": 1793755334486
     },
@@ -351,6 +335,22 @@
     {
       "key": "amazonus|b0fvfl86m9|$499.98",
       "ts": 1794329186950
+    },
+    {
+      "key": "amazonus|b0hfrkmb2j|$89.99",
+      "ts": 1794360012795
+    },
+    {
+      "key": "amazonus|b0glpfsk4d|$159.98",
+      "ts": 1794360019184
+    },
+    {
+      "key": "amazonus|b0fm5kf34g|$199.95",
+      "ts": 1794360025758
+    },
+    {
+      "key": "amazonus|b0f1n21nkm|$139.98",
+      "ts": 1794360031744
     }
   ]
 }
