@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b00dfbdalc|$99.00",
-      "ts": 1793866134895
-    },
-    {
-      "key": "amazonus|b0gwdkpqb5|$107.77",
-      "ts": 1793866141126
-    },
-    {
-      "key": "amazonus|b0h98jh9xt|$139.97",
-      "ts": 1793866147412
-    },
-    {
-      "key": "amazonus|b0bzqfjd4d|$159.94",
-      "ts": 1793866154052
-    },
-    {
       "key": "amazonus|b0h2gzdmrc|$99.99",
       "ts": 1793898676464
     },
@@ -319,6 +303,22 @@
     {
       "key": "amazonus|b0gt5sv7vd|$129.99",
       "ts": 1794450297420
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20295585-sns-ac-64-39-or-56-34-8-count-zerowater-official-5-stage-replacement-filters-at-amazon-8-05-each|$8.05",
+      "ts": 1794472546392
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20295642-ac-3-49-8-pc-qmay-dnd-mystery-polyhedral-dice-set-w-dice-pouch-at-amazon|$3.49",
+      "ts": 1794472551578
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20295639-sns-ac-37-12-or-31-14-4-57-count-tide-pods-free-gentle-laundry-detergent-soap-pacs-unscented-9-28-each-at-amazon|$9.28",
+      "ts": 1794472556698
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20295588-5-99-400-pk-anoson-cable-zip-ties-black-various-sizes-4-12-at-amazon|$5.99",
+      "ts": 1794472561832
     }
   ]
 }
