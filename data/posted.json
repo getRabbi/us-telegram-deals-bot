@@ -319,6 +319,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20295588-5-99-400-pk-anoson-cable-zip-ties-black-various-sizes-4-12-at-amazon|$5.99",
       "ts": 1794472561832
+    },
+    {
+      "key": "amazonus|b0bv71qdzy|$66.36",
+      "ts": 1794503685453
+    },
+    {
+      "key": "amazonus|b075bf6v58|$79.99",
+      "ts": 1794503691915
+    },
+    {
+      "key": "amazonus|b08f6gpqq7|$89.99",
+      "ts": 1794503697627
+    },
+    {
+      "key": "amazonus|b08f6dwkqp|$89.99",
+      "ts": 1794503702861
     }
   ]
 }
