@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0d1cxl52g|$139.99",
-      "ts": 1793982368802
-    },
-    {
-      "key": "amazonus|b0f3ct72zk|$45.99",
-      "ts": 1793982375239
-    },
-    {
-      "key": "amazonus|b0002jvj2c|$131.25",
-      "ts": 1793982380799
-    },
-    {
-      "key": "amazonus|b0gvy44mj1|$57.99",
-      "ts": 1793982386808
-    },
-    {
-      "key": "amazonus|b0gyyh39ny|$129.98",
-      "ts": 1794013522373
-    },
-    {
-      "key": "amazonus|b0dpgbskr2|$692.99",
-      "ts": 1794013528601
-    },
-    {
-      "key": "amazonus|b0fdkr293g|$359.00",
-      "ts": 1794013534952
-    },
-    {
-      "key": "amazonus|b0fdkpflfp|$369.00",
-      "ts": 1794013541168
-    },
-    {
       "key": "amazonus|b01bmcwj7g|$417.00",
       "ts": 1794036759556
     },
@@ -319,6 +287,26 @@
     {
       "key": "amazonus|b0g2t5pp7w|$41.99",
       "ts": 1794558132270
+    },
+    {
+      "key": "amazonus|b0dsc8jf59|$249.99",
+      "ts": 1794619896933
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20306895-hp-omnibook-3-17-3-fhd-touchscreen-copilot-pc-laptop-intel-core-ultra-5-322-16gb-ram-512gb-ssd-windows-11-home-699-99-14-99-shipping-costco-com|$14.99",
+      "ts": 1794619901911
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20306910-shark-stratos-cordless-vacuum-with-clean-sense-iq-duoclean-powerfins-hairpro-239-99-4-99-shipping-costco-com|$4.99",
+      "ts": 1794619906885
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20306841-25-count-frida-fertility-pregnancy-test-strips-5-43-0-22-each-free-shipping-w-prime-or-on-35|$5.43",
+      "ts": 1794619911875
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20306853-sunny-days-entertainment-toymendous-9-squishy-corn-on-the-cob-fidget-toy-w-removable-husk-5-97-free-shipping-w-prime-or-on-35|$5.97",
+      "ts": 1794619916952
     }
   ]
 }
