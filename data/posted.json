@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0d38ft41h|$94.99",
-      "ts": 1794152715025
-    },
-    {
-      "key": "amazonus|b07scgy2h6|$149.99",
-      "ts": 1794152721403
-    },
-    {
-      "key": "amazonus|b0c6995nj8|$37.99",
-      "ts": 1794152727833
-    },
-    {
-      "key": "amazonus|b0cg5fw6xq|$37.98",
-      "ts": 1794152734064
-    },
-    {
       "key": "amazonus|b0f14n7hhh|$89.99",
       "ts": 1794186122153
     },
@@ -319,6 +303,26 @@
     {
       "key": "amazonus|b0dd3bjj7g|$209.98",
       "ts": 1794730105139
+    },
+    {
+      "key": "amazonus|b07yklxb3y|$39.49",
+      "ts": 1794758261751
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20314419-24-99-jolly-knits-men-s-2-piece-ugly-christmas-velour-track-jacket-and-pants-set|$1",
+      "ts": 1794758266917
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20314425-18-oz-ello-oasis-kids-insulated-stainless-steel-tumbler-w-handle-retracting-straw-strawberries-14-49-free-shipping-w-prime-or-on-35|$3",
+      "ts": 1794758272088
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20314404-olixis-3-in-1-foam-plyometric-jump-box-30-x-20-x-24-94-99-free-shipping-w-prime-or-on-35|$35",
+      "ts": 1794758277287
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20314449-71-tripod-for-iphone-16-99|$16.99",
+      "ts": 1794758282487
     }
   ]
 }
