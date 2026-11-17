@@ -1,38 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b009lajqvy|$455.73",
-      "ts": 1794251897034
-    },
-    {
-      "key": "amazonus|b0h3vthv65|$159.98",
-      "ts": 1794251903080
-    },
-    {
-      "key": "amazonus|b08v5bflry|$385.00",
-      "ts": 1794251909146
-    },
-    {
-      "key": "amazonus|b09tpx4451|$384.99",
-      "ts": 1794251915365
-    },
-    {
-      "key": "amazonus|b0dz7rz14s|$199.99",
-      "ts": 1794281985412
-    },
-    {
-      "key": "amazonus|b0hqbn7nxp|$729.99",
-      "ts": 1794281991996
-    },
-    {
-      "key": "amazonus|b07hb7qz1f|$89.94",
-      "ts": 1794281998547
-    },
-    {
-      "key": "amazonus|b08ppzwncv|$149.99",
-      "ts": 1794282004510
-    },
-    {
       "key": "amazonus|b0gwdm9cng|$147.96",
       "ts": 1794300020023
     },
@@ -347,6 +315,26 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20321496-cuisinart-2-lb-compact-automatic-bread-maker-cbk-110p1-85-56-free-shipping|$85.56",
       "ts": 1794855761281
+    },
+    {
+      "key": "amazonus|b01n5uptzs|$319.95",
+      "ts": 1794887881607
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20324418-hand-massager-with-heat-and-compression-blue-27-99-72-off-w-promo-code|$27.99",
+      "ts": 1794887886601
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20324451-noco-genius-boost-x12v-1750-amp-ultrasafe-lithium-jump-starter|$50",
+      "ts": 1794887891605
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20324412-fxrhlp-2-6x8-washable-runner-rug-modern-abstract-beige-18-04|$18.04",
+      "ts": 1794887896772
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20324442-ihg-hotels-resorts-2026-global-cyber-sale-up-to-30-off-hotels-resorts-up-to-60-off-at-iberostar-beach-resorts-book-by-december-1-2026|",
+      "ts": 1794887901771
     }
   ]
 }
