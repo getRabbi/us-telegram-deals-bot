@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0g62jqk57|$35.99",
-      "ts": 1794329168443
-    },
-    {
-      "key": "amazonus|b0bzscs613|$39.97",
-      "ts": 1794329175119
-    },
-    {
-      "key": "amazonus|b0bzvzb9sz|$45.97",
-      "ts": 1794329181176
-    },
-    {
-      "key": "amazonus|b0fvfl86m9|$499.98",
-      "ts": 1794329186950
-    },
-    {
       "key": "amazonus|b0hfrkmb2j|$89.99",
       "ts": 1794360012795
     },
@@ -335,6 +319,26 @@
     {
       "key": "amazonus|b0d9yzj3v7|$99.99",
       "ts": 1794907880056
+    },
+    {
+      "key": "amazonus|b0h7slxzpb|$549.99",
+      "ts": 1794938371046
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20328330-jslin-hinged-rfid-blocking-slim-wallet-3-99-free-shipping-w-prime-or-orders-35|$3.99",
+      "ts": 1794938376222
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20328384-fawarior-women-s-high-waist-full-length-leggings-black-from-3-89-free-shipping-w-prime-or-orders-35|$3.89",
+      "ts": 1794938381345
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20328420-10-piece-hampton-forge-titanium-coated-kitchen-knife-set-19-19-free-shipping-w-prime-or-on-35|$19.19",
+      "ts": 1794938386478
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20328342-macys-carolina-herrera-bad-boy-elixir-eau-de-parfum-127-40|$100.80",
+      "ts": 1794938391628
     }
   ]
 }
