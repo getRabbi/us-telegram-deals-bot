@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0gwdm9cng|$147.96",
-      "ts": 1794300020023
-    },
-    {
-      "key": "amazonus|b0c1z4glks|$1,799.00",
-      "ts": 1794300026289
-    },
-    {
-      "key": "amazonus|b0bmgszmw9|$109.98",
-      "ts": 1794300032138
-    },
-    {
-      "key": "amazonus|b0dqdqvtt3|$64.98",
-      "ts": 1794300038951
-    },
-    {
       "key": "amazonus|b0g62jqk57|$35.99",
       "ts": 1794329168443
     },
@@ -335,6 +319,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20324442-ihg-hotels-resorts-2026-global-cyber-sale-up-to-30-off-hotels-resorts-up-to-60-off-at-iberostar-beach-resorts-book-by-december-1-2026|",
       "ts": 1794887901771
+    },
+    {
+      "key": "amazonus|b0gwdkpqb5|$99.99",
+      "ts": 1794907860580
+    },
+    {
+      "key": "amazonus|b0fgyj4gs6|$75.00",
+      "ts": 1794907867112
+    },
+    {
+      "key": "amazonus|b0fgydf3dd|$72.22",
+      "ts": 1794907873499
+    },
+    {
+      "key": "amazonus|b0d9yzj3v7|$99.99",
+      "ts": 1794907880056
     }
   ]
 }
