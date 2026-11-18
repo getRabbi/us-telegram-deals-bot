@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0hfrkmb2j|$89.99",
-      "ts": 1794360012795
-    },
-    {
-      "key": "amazonus|b0glpfsk4d|$159.98",
-      "ts": 1794360019184
-    },
-    {
-      "key": "amazonus|b0fm5kf34g|$199.95",
-      "ts": 1794360025758
-    },
-    {
-      "key": "amazonus|b0f1n21nkm|$139.98",
-      "ts": 1794360031744
-    },
-    {
       "key": "amazonus|b0hgnptsmt|$269.98",
       "ts": 1794383987236
     },
@@ -339,6 +323,26 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20328342-macys-carolina-herrera-bad-boy-elixir-eau-de-parfum-127-40|$100.80",
       "ts": 1794938391628
+    },
+    {
+      "key": "amazonus|b0gt2d9zcr|$328.69",
+      "ts": 1794970720757
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20331081-new-etrade-brokerage-account-get-up-to-1-500|$50",
+      "ts": 1794970725757
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20330988-moog-heavy-duty-steering-pitman-arm-amgk6536hd-5-79-free-shipping-w-prime-or-on-35|$5.79",
+      "ts": 1794970730735
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20331075-cuisinart-double-flip-belgian-waffle-maker-waf-f40nas-79-99-free-shipping|$20",
+      "ts": 1794970735721
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20331138-2-pack-29-2-oz-old-spice-men-s-swagger-2-in-1-shampoo-conditioner-cedarwood-lime-14-98-7-49-each-w-s-s-free-shipping-w-prime-or-on-35|$7.49",
+      "ts": 1794970740748
     }
   ]
 }
