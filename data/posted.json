@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0hgnptsmt|$269.98",
-      "ts": 1794383987236
-    },
-    {
-      "key": "amazonus|b089tqb1rb|$269.99",
-      "ts": 1794383993286
-    },
-    {
-      "key": "amazonus|b001h0fvc4|$44.97",
-      "ts": 1794383999106
-    },
-    {
-      "key": "amazonus|b0gvvv7jqn|$44.96",
-      "ts": 1794384004322
-    },
-    {
       "key": "amazonus|b0gwdkpqb5|$107.76",
       "ts": 1794450278561
     },
@@ -343,6 +327,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20331138-2-pack-29-2-oz-old-spice-men-s-swagger-2-in-1-shampoo-conditioner-cedarwood-lime-14-98-7-49-each-w-s-s-free-shipping-w-prime-or-on-35|$7.49",
       "ts": 1794970740748
+    },
+    {
+      "key": "amazonus|b095rkf23v|$205.67",
+      "ts": 1794991805206
+    },
+    {
+      "key": "amazonus|b0fxnfftgc|$615.00",
+      "ts": 1794991811337
+    },
+    {
+      "key": "amazonus|b0dfnfx2k7|$279.99",
+      "ts": 1794991817526
+    },
+    {
+      "key": "amazonus|b0dwhfwt5c|$449.99",
+      "ts": 1794991823395
     }
   ]
 }
