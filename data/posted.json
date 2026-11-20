@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b07889v1l8|$48.63",
-      "ts": 1794558113640
-    },
-    {
-      "key": "amazonus|b0bs1stgtl|$299.99",
-      "ts": 1794558119807
-    },
-    {
-      "key": "amazonus|b07nc58h7p|$57.49",
-      "ts": 1794558125991
-    },
-    {
-      "key": "amazonus|b0g2t5pp7w|$41.99",
-      "ts": 1794558132270
-    },
-    {
       "key": "amazonus|b0dsc8jf59|$249.99",
       "ts": 1794619896933
     },
@@ -363,6 +347,22 @@
     {
       "key": "amazonus|b0gzlrn1st|$39.99",
       "ts": 1795141890905
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20354760-sns-0-84-or-0-75-1-3-oz-amazon-grocery-sloppy-joe-seasoning-mix-at-amazon|$0.75",
+      "ts": 1795164533801
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20354838-ac-479-99-27-samsung-odyssey-g8-g80hf-5k-dual-ips-monitor-2026-at-amazon|$20.00",
+      "ts": 1795164538966
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20354763-sns-4-48-or-4-01-6-oz-weber-grill-spray-at-amazon|$4.01",
+      "ts": 1795164544412
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20354772-acer-bluetooth-wireless-mouse-bt5-2-2-4ghz-800-1200-1600-dpi-7-99-amazon|$7.99",
+      "ts": 1795164549600
     }
   ]
 }
