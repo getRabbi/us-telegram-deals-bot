@@ -1,26 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0f3pqhwtz|$378.00",
-      "ts": 1794704910395
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/20311263-dyson-pencilvac-fluffycones-cordless-vacuum-with-extra-battery-399-99-costco|$9.99",
-      "ts": 1794704915408
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/20311236-nespresso-vertuo-pop-cold-value-added-bundle-by-de-longhi-liquorice-black-45-costco-shop-card-10-voucher-nespresso-com-109-99-free-shipping-costco-com|$10",
-      "ts": 1794704920622
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/20311260-usb-c-car-charger-adapter-2-pack-5-99-free-shipping-w-prime-or-on-35|$5.99",
-      "ts": 1794704925615
-    },
-    {
-      "key": "slickdeals|https://slickdeals.net/f/20311296-adidas-men-s-grand-court-shoes-core-black-core-black-cloud-white-23|$4.95",
-      "ts": 1794704930594
-    },
-    {
       "key": "amazonus|b0hb7qz58y|$998.00",
       "ts": 1794730085426
     },
@@ -371,6 +351,22 @@
     {
       "key": "amazonus|b0g7mctdnp|$114.99",
       "ts": 1795278817067
+    },
+    {
+      "key": "amazonus|b0h7z164pj|$139.95",
+      "ts": 1795310844797
+    },
+    {
+      "key": "amazonus|b0f9sx3jb9|$174.99",
+      "ts": 1795310851032
+    },
+    {
+      "key": "amazonus|b09b8v1lz3|$39.99",
+      "ts": 1795310856687
+    },
+    {
+      "key": "amazonus|b0f2tqbg6t|$39.99",
+      "ts": 1795310862355
     }
   ]
 }
