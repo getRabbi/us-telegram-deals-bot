@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0gwdkpqb5|$99.99",
-      "ts": 1794907860580
-    },
-    {
-      "key": "amazonus|b0fgyj4gs6|$75.00",
-      "ts": 1794907867112
-    },
-    {
-      "key": "amazonus|b0fgydf3dd|$72.22",
-      "ts": 1794907873499
-    },
-    {
-      "key": "amazonus|b0d9yzj3v7|$99.99",
-      "ts": 1794907880056
-    },
-    {
       "key": "amazonus|b0h7slxzpb|$549.99",
       "ts": 1794938371046
     },
@@ -355,6 +339,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20383599-1-49-hacknet-steam-deluxe-2-24|$1.49",
       "ts": 1795497912291
+    },
+    {
+      "key": "amazonus|b00v49k740|$62.12",
+      "ts": 1795519304480
+    },
+    {
+      "key": "amazonus|b0gcc63yn8|$39.98",
+      "ts": 1795519310272
+    },
+    {
+      "key": "amazonus|b0fb114wvc|$40.16",
+      "ts": 1795519316496
+    },
+    {
+      "key": "amazonus|b0gvvn97gv|$36.00",
+      "ts": 1795519322812
     }
   ]
 }
