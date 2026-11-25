@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b095rkf23v|$205.67",
-      "ts": 1794991805206
-    },
-    {
-      "key": "amazonus|b0fxnfftgc|$615.00",
-      "ts": 1794991811337
-    },
-    {
-      "key": "amazonus|b0dfnfx2k7|$279.99",
-      "ts": 1794991817526
-    },
-    {
-      "key": "amazonus|b0dwhfwt5c|$449.99",
-      "ts": 1794991823395
-    },
-    {
       "key": "amazonus|b097f4qkvy|$59.99",
       "ts": 1795023787290
     },
@@ -351,6 +335,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20391810-3-pack-3-8-oz-degree-men-cool-rush-antiperspirant-deodorant-dry-spray-8-56-2-85-each-w-s-s-free-shipping-w-prime-or-on-35|$2.85",
       "ts": 1795580213180
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20392983-costco-members-128gb-8-5-apple-ipad-mini-wi-fi-tablet-w-a20-pro-1-year-applecare-included-599-99|$0.99",
+      "ts": 1795601100215
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20393181-16-oz-craftsman-high-visibility-fiberglass-claw-hammer-cmht51400-7-98-free-shipping-w-prime-or-on-35|$7.98",
+      "ts": 1795601105373
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20393148-kroger-ralphs-food-4-less-boost-membership-75-off-only-25-for-1-year-includes-hulu-disney-plus-or-espn|$25",
+      "ts": 1795601110629
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20393094-shokz-openrun-pro-2-open-ear-bone-conduction-bluetooth-headphones-black-124-95-at-amazon|$55",
+      "ts": 1795601115784
     }
   ]
 }
