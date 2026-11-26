@@ -1,22 +1,6 @@
 {
   "posted": [
     {
-      "key": "amazonus|b0fhj7tkzm|$39.99",
-      "ts": 1795079175209
-    },
-    {
-      "key": "amazonus|b0h6c5kw2d|$52.98",
-      "ts": 1795079180372
-    },
-    {
-      "key": "amazonus|b0fks3v4t9|$90.00",
-      "ts": 1795079186859
-    },
-    {
-      "key": "amazonus|b0hfkyj941|$117.00",
-      "ts": 1795079193373
-    },
-    {
       "key": "amazonus|b08133hx34|$564.95",
       "ts": 1795110378078
     },
@@ -355,6 +339,22 @@
     {
       "key": "slickdeals|https://slickdeals.net/f/20400402-spyder-men-s-fur-lined-rib-knit-cuff-beanie-various-from-5-63-free-shipping-w-prime-or-on-35|$5.63",
       "ts": 1795664411046
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20402925-5-oz-planters-nut-duos-peppercorn-pistachios-parmesan-cashews-2-97-free-shipping-w-prime-or-on-orders-over-35|$2.97",
+      "ts": 1795686512532
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20402997-32-oz-herdez-guacamole-salsa-medium-3-91-w-s-s-free-shipping-w-prime-or-on-orders-over-35|$3.91",
+      "ts": 1795686517563
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20403006-oura-ring-5-smart-ring-sleep-fitness-tracker-7-day-battery-life-silver-299-25-off-at-amazon|$100",
+      "ts": 1795686522583
+    },
+    {
+      "key": "slickdeals|https://slickdeals.net/f/20402985-12-pack-12-oz-celsius-sugar-free-energy-drink-wild-berry-12-82-w-s-s-free-shipping-w-prime-or-on-orders-over-35|$12.82",
+      "ts": 1795686527913
     }
   ]
 }
